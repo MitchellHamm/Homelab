@@ -5,6 +5,7 @@ services:
     container_name: homebridge
     restart: always
     network_mode: host
+    command: bash -c "npm install -g homebridge-tplink-smarthome"
     environment:
       - TZ=America/Winnipeg
       - PGID=1000

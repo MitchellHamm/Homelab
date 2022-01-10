@@ -1,0 +1,29 @@
+{
+    "bridge": {
+        "name": "Homebridge 1471",
+        "username": "0E:B4:B9:AC:A6:2D",
+        "port": 52353,
+        "pin": "031-45-154"
+    },
+    "accessories": [],
+    "platforms": [
+        {
+            "name": "Config",
+            "port": 8581,
+            "platform": "config"
+        },
+        {
+            "name": "TplinkSmarthome",
+            "addCustomCharacteristics": true,
+            "deviceTypes": [
+                "plug",
+                "bulb"
+            ],
+            "switchModels": [
+                "HS105",
+                "HS200"
+            ],
+            "platform": "TplinkSmarthome"
+        }
+    ]
+}

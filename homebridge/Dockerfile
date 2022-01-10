@@ -28,6 +28,7 @@ RUN npm install -g --unsafe-perm homebridge@${HOMEBRIDGE_VERSION}
 
 ENV CONFIG_UI_VERSION=4.41.5 HOMEBRIDGE_CONFIG_UI=1 HOMEBRIDGE_CONFIG_UI_PORT=8581
 RUN npm install -g --unsafe-perm homebridge-config-ui-x@${CONFIG_UI_VERSION}
+RUN npm install -g homebridge-tplink-smarthome
 
 WORKDIR /homebridge
 VOLUME /homebridge

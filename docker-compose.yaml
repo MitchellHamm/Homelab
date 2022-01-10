@@ -1,7 +1,7 @@
 version: '2'
 services:
   homebridge:
-    build: homebridge/Dockerfile
+    build: ./homebridge
     container_name: homebridge
     restart: always
     network_mode: host

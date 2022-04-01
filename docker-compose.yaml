@@ -21,7 +21,8 @@ services:
       - TZ=America/Winnipeg
     network_mode: host
     volumes:
-      - /plex:/data
+      - /mnt/md0/plex/tv:/tv
+      - /mnt/md0/plex/movies:/movies
   pihole:
     container_name: pihole
     image: pihole/pihole:latest

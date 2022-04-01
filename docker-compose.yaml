@@ -25,8 +25,7 @@ services:
     network_mode: host
     volumes:
       - /mnt/md0/plex/cfg:/config
-      - /mnt/md0/plex/tv:/data/tv
-      - /mnt/md0/plex/movies:/data/movies
+      - /mnt/md0/plex:/data
   pihole:
     container_name: pihole
     image: pihole/pihole:latest
@@ -53,7 +52,7 @@ services:
       - TZ=America/Winnipeg
     volumes:
       - ./transmission:/config
-      - /mnt/md0/plex/tv:/mnt/media/torrents
+      - /mnt/md0/media/torrents:/mnt/media/torrents
     ports:
       - 9091:9091
       - 49153:49153
@@ -93,7 +92,7 @@ services:
       - PGID=1000
       - TZ=PST
     volumes:
-      - ~/docker-services/radarr/config:/config
+      - ./radarr/config:/config
       - /mnt/md0/plex/movies:/mnt/media
     ports:
       - 7878:7878

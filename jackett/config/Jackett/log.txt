@@ -501,3 +501,405 @@
 2022-04-01 05:56:41.8010 Info Jackett startup finished in 4.859 s 
 2022-04-01 05:57:13.3780 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
 2022-04-01 05:57:14.5740 Info Torznab search in The Pirate Bay => Found 11 releases 
+2022-04-01 06:12:43.2744 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 06:12:43.2769 Info Torznab search in The Pirate Bay => Found 11 releases (from cache) 
+2022-04-01 06:26:06.0589 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 06:26:07.0772 Info Torznab search in The Pirate Bay => Found 11 releases 
+2022-04-01 06:26:08.7434 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 06:26:08.7434 Info Torznab search in The Pirate Bay => Found 11 releases (from cache) 
+2022-04-01 06:26:50.7867 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 06:26:52.2345 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 06:26:54.4358 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 06:26:54.4358 Info Torznab search in kickasstorrents.to => Found 10 releases (from cache) 
+2022-04-01 06:27:33.1516 Error All categories provided are unsupported in EZTV: 2000,2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 06:27:33.1516 Info Torznab search in EZTV => Found 0 releases 
+2022-04-01 06:27:43.6894 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 06:27:43.6894 Info Torznab search in The Pirate Bay => Found 11 releases (from cache) 
+2022-04-01 06:28:19.6652 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 06:28:19.7412 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 06:28:21.7412 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 06:31:45.7009 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 06:31:45.7009 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 06:31:46.0548 Info Torznab search in The Pirate Bay for Devil Wears Prada 2006 => Found 28 releases 
+2022-04-01 06:31:46.8751 Info Torznab search in kickasstorrents.to for Devil Wears Prada 2006 => Found 13 releases 
+2022-04-01 06:33:40.9831 Info Starting Jackett v0.20.779 
+2022-04-01 06:33:41.8339 Info Environment version: 6.0.3 (/app/Jackett/) 
+2022-04-01 06:33:41.8351 Info OS version: Unix 5.13.0.39 (64bit OS) (64bit process) 
+2022-04-01 06:33:41.8351 Info Jackett variant: CoreLinuxAmdx64 
+2022-04-01 06:33:41.8351 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2022-04-01 06:33:41.8393 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2022-04-01 06:33:41.8393 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-04-01 06:33:41.8393 Info App config/log directory: /config/Jackett 
+2022-04-01 06:33:41.8431 Info Using proxy: Disabled 
+2022-04-01 06:33:41.8431 Info Using FlareSolverr: No 
+2022-04-01 06:33:41.8431 Info Using HTTP Client: HttpWebClient2 
+2022-04-01 06:33:41.8571 Info Loading Native indexers ... 
+2022-04-01 06:33:42.0058 Info Loaded 83 Native indexers: abnormal, alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, greatposterwall, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, morethantv, myanonamouse, ncore, nebulance, norbits, oppaitime, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentmafya, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho 
+2022-04-01 06:33:42.0123 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-04-01 06:33:44.4808 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, dragonworldreloaded, blutopia-api, jme-reunit3d, backups, gktorrent, deildu, movietorrentz, acgrip, hdbitscom, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, pornotor, ilcorsaronero, ccfbits, trezzor, piratadigital, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, elitetorrent-biz, crackingpatching, insanetracker, vizuk, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, portugas, desitorrents-api, sugoimusic, nbtorrents, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, twilightszoom, torlook, hd4fans, 2fast4you, kisssub, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, cryptichaven, underverse, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, omgwtftrackr, moviesite, aniRena, theaudioscene, wihd, aftershock, peerjunkies, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, hamsterstudio, crazyhd, mononokebt, libranet, xbit, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, gfxpeers, catorrent, torrentslocal, prostylex, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, p2pelite, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, bluesbrothers, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, hidden-palace, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, hdme, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, iv-torrents, torrentfunk, kickasstorrents-to, classix, nitro, bitded, 3dtorrents, hdmonkey, bitbr, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, kinonavse100, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, netlab, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, torrentdb, pornbits, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, hdai, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, ibit, hdspain, digitalcore, ebookparadijs, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, thehorrorcharnel, peeratiko, bithorlo, theshinning, ehentai, hdturk, haitang, animeitalia, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, ilcorsaroverde, 24rolika, milkie, opensharing, nntt, torrentgalaxy, greekdiamond, pwtorrents, microbit, moviesdvdr, tjupt, mediamaatjes, pttime, torrentlt, coastalcrew, brasiltracker, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, zooqle, limetorrentsclone, btschool, rudub, houseofdevil, scenepalace, limetorrents, themixingbowl, hqsource, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, netcosmo, whiteangel, tlfbits, u2, trancetraffic, oxtorrent, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, torrentsurf, ilcorsaroblu, spidertk, hellastz, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, anaschcc, the-devils-lounge, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, purovicio, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, fouducinema, newpct-me, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, trackeros-api, torrentleech-pl, turktracker, sdbits, speedmasterhd, ptfiles, hdcenter, badasstorrents, btetree, chilebt, torrentland-api, torrenting, torrentdownloads, torrentsir, pornolive, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, soundpark, nethd, pthome, datatalli, redbits-api, immortuos, alleenretail, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, hdcity, film-paleis, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, swarmazon, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, underversel, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, torrentparadise, mousebits, fanoin, btdigg, selezen, bitcityreloaded, animeclipse, 52pt, wdt, aidoruonline, esharenet, puurhollands, newstudio 
+2022-04-01 06:33:44.4808 Info Loaded 579 indexers in total 
+2022-04-01 06:33:44.4808 Info Adding aggregate indexer ('all' indexer) ... 
+2022-04-01 06:33:44.4898 Info Adding filter indexer ('type:public' indexer) ... 
+2022-04-01 06:33:44.4898 Info Adding filter indexer ('type:private' indexer) ... 
+2022-04-01 06:33:44.4898 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-04-01 06:33:44.8217 Info Jackett startup finished in 5.237 s 
+2022-04-01 06:39:36.9492 Info Starting Jackett v0.20.779 
+2022-04-01 06:39:37.7304 Info Environment version: 6.0.3 (/app/Jackett/) 
+2022-04-01 06:39:37.7317 Info OS version: Unix 5.13.0.39 (64bit OS) (64bit process) 
+2022-04-01 06:39:37.7317 Info Jackett variant: CoreLinuxAmdx64 
+2022-04-01 06:39:37.7317 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2022-04-01 06:39:37.7317 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2022-04-01 06:39:37.7355 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-04-01 06:39:37.7355 Info App config/log directory: /config/Jackett 
+2022-04-01 06:39:37.7355 Info Using proxy: Disabled 
+2022-04-01 06:39:37.7355 Info Using FlareSolverr: No 
+2022-04-01 06:39:37.7400 Info Using HTTP Client: HttpWebClient2 
+2022-04-01 06:39:37.7463 Info Loading Native indexers ... 
+2022-04-01 06:39:37.8959 Info Loaded 83 Native indexers: abnormal, alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, greatposterwall, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, morethantv, myanonamouse, ncore, nebulance, norbits, oppaitime, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentmafya, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho 
+2022-04-01 06:39:37.9011 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-04-01 06:39:40.2517 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, dragonworldreloaded, blutopia-api, jme-reunit3d, backups, gktorrent, deildu, movietorrentz, acgrip, hdbitscom, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, pornotor, ilcorsaronero, ccfbits, trezzor, piratadigital, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, elitetorrent-biz, crackingpatching, insanetracker, vizuk, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, portugas, desitorrents-api, sugoimusic, nbtorrents, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, twilightszoom, torlook, hd4fans, 2fast4you, kisssub, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, cryptichaven, underverse, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, omgwtftrackr, moviesite, aniRena, theaudioscene, wihd, aftershock, peerjunkies, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, hamsterstudio, crazyhd, mononokebt, libranet, xbit, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, gfxpeers, catorrent, torrentslocal, prostylex, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, p2pelite, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, bluesbrothers, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, hidden-palace, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, hdme, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, iv-torrents, torrentfunk, kickasstorrents-to, classix, nitro, bitded, 3dtorrents, hdmonkey, bitbr, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, kinonavse100, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, netlab, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, torrentdb, pornbits, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, hdai, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, ibit, hdspain, digitalcore, ebookparadijs, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, thehorrorcharnel, peeratiko, bithorlo, theshinning, ehentai, hdturk, haitang, animeitalia, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, ilcorsaroverde, 24rolika, milkie, opensharing, nntt, torrentgalaxy, greekdiamond, pwtorrents, microbit, moviesdvdr, tjupt, mediamaatjes, pttime, torrentlt, coastalcrew, brasiltracker, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, zooqle, limetorrentsclone, btschool, rudub, houseofdevil, scenepalace, limetorrents, themixingbowl, hqsource, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, netcosmo, whiteangel, tlfbits, u2, trancetraffic, oxtorrent, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, torrentsurf, ilcorsaroblu, spidertk, hellastz, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, anaschcc, the-devils-lounge, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, purovicio, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, fouducinema, newpct-me, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, trackeros-api, torrentleech-pl, turktracker, sdbits, speedmasterhd, ptfiles, hdcenter, badasstorrents, btetree, chilebt, torrentland-api, torrenting, torrentdownloads, torrentsir, pornolive, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, soundpark, nethd, pthome, datatalli, redbits-api, immortuos, alleenretail, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, hdcity, film-paleis, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, swarmazon, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, underversel, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, torrentparadise, mousebits, fanoin, btdigg, selezen, bitcityreloaded, animeclipse, 52pt, wdt, aidoruonline, esharenet, puurhollands, newstudio 
+2022-04-01 06:39:40.2517 Info Loaded 579 indexers in total 
+2022-04-01 06:39:40.2517 Info Adding aggregate indexer ('all' indexer) ... 
+2022-04-01 06:39:40.2612 Info Adding filter indexer ('type:public' indexer) ... 
+2022-04-01 06:39:40.2612 Info Adding filter indexer ('type:private' indexer) ... 
+2022-04-01 06:39:40.2612 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-04-01 06:39:40.4977 Info Jackett startup finished in 4.915 s 
+2022-04-01 06:41:40.4511 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 06:41:41.6700 Info Torznab search in The Pirate Bay => Found 8 releases 
+2022-04-01 06:41:57.0899 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 06:41:57.0934 Info Torznab search in The Pirate Bay => Found 8 releases (from cache) 
+2022-04-01 06:41:59.1241 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 06:41:59.1241 Info Torznab search in The Pirate Bay => Found 8 releases (from cache) 
+2022-04-01 06:42:41.5619 Error All categories provided are unsupported in EZTV: 2000,2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 06:42:41.5619 Info Torznab search in EZTV => Found 0 releases 
+2022-04-01 06:43:11.5450 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 06:43:12.4091 Info Torznab search in The Pirate Bay => Found 25 releases 
+2022-04-01 06:43:12.6285 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 06:43:12.7601 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 06:43:16.5687 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 06:43:17.7366 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 06:43:27.8514 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 06:43:27.8514 Info Torznab search in kickasstorrents.to => Found 10 releases (from cache) 
+2022-04-01 06:47:16.4106 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 06:47:16.4106 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 06:47:17.7554 Info Torznab search in The Pirate Bay for Dark Knight 2008 => Found 95 releases 
+2022-04-01 06:47:17.9069 Info Torznab search in kickasstorrents.to for Dark Knight 2008 => Found 99 releases 
+2022-04-01 06:58:41.8684 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 06:58:41.8745 Info Torznab search in The Pirate Bay => Found 25 releases (from cache) 
+2022-04-01 06:58:41.8745 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 07:14:12.1201 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 07:14:12.1241 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 07:14:12.1241 Info Torznab search in The Pirate Bay => Found 25 releases (from cache) 
+2022-04-01 07:29:42.3875 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 07:29:43.3635 Info Torznab search in The Pirate Bay => Found 16 releases 
+2022-04-01 07:29:43.3705 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 07:34:10.3961 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 07:34:10.4027 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 07:34:11.2405 Info Torznab search in The Pirate Bay => Found 4 releases 
+2022-04-01 07:34:11.5059 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 07:39:40.3073 Info Checking for updates... Jackett variant: CoreLinuxAmdx64 
+2022-04-01 07:39:40.7905 Info New release found. Current version: v0.20.779 New version: v0.20.781 
+2022-04-01 07:39:40.7905 Info Downloading release v0.20.781 It could take a while... 
+2022-04-01 07:39:53.7528 Info Starting updater: /tmp/JackettUpdate-v0.20.781-637843955917801809/Jackett/JackettUpdater --Path "/app/Jackett" --Type "Console" --Args " --NoRestart" --KillPids "319" --NoRestart 
+2022-04-01 07:39:53.7587 Info Updater started process id: 464 
+2022-04-01 07:39:56.3622 Info Starting Jackett v0.20.781 
+2022-04-01 07:39:56.9486 Info Environment version: 6.0.3 (/app/Jackett/) 
+2022-04-01 07:39:56.9486 Info OS version: Unix 5.13.0.39 (64bit OS) (64bit process) 
+2022-04-01 07:39:56.9486 Info Jackett variant: CoreLinuxAmdx64 
+2022-04-01 07:39:56.9486 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2022-04-01 07:39:56.9509 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2022-04-01 07:39:56.9509 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-04-01 07:39:56.9509 Info App config/log directory: /config/Jackett 
+2022-04-01 07:39:56.9509 Info Using proxy: Disabled 
+2022-04-01 07:39:56.9509 Info Using FlareSolverr: No 
+2022-04-01 07:39:56.9509 Info Using HTTP Client: HttpWebClient2 
+2022-04-01 07:39:56.9601 Info Loading Native indexers ... 
+2022-04-01 07:39:57.0939 Info Loaded 83 Native indexers: abnormal, alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, greatposterwall, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, morethantv, myanonamouse, ncore, nebulance, norbits, oppaitime, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentmafya, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho 
+2022-04-01 07:39:57.0978 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-04-01 07:39:58.8534 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, dragonworldreloaded, blutopia-api, jme-reunit3d, backups, gktorrent, deildu, movietorrentz, acgrip, hdbitscom, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, pornotor, ilcorsaronero, ccfbits, trezzor, piratadigital, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, elitetorrent-biz, crackingpatching, insanetracker, vizuk, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, portugas, desitorrents-api, sugoimusic, nbtorrents, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, twilightszoom, torlook, hd4fans, 2fast4you, kisssub, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, cryptichaven, underverse, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, omgwtftrackr, moviesite, aniRena, theaudioscene, wihd, aftershock, peerjunkies, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, hamsterstudio, crazyhd, mononokebt, libranet, xbit, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, gfxpeers, catorrent, torrentslocal, prostylex, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, p2pelite, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, bluesbrothers, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, hidden-palace, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, hdme, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, iv-torrents, torrentfunk, kickasstorrents-to, classix, nitro, bitded, 3dtorrents, hdmonkey, bitbr, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, kinonavse100, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, netlab, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, torrentdb, pornbits, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, hdai, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, ibit, hdspain, digitalcore, ebookparadijs, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, thehorrorcharnel, peeratiko, bithorlo, theshinning, ehentai, hdturk, haitang, animeitalia, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, ilcorsaroverde, 24rolika, milkie, opensharing, nntt, torrentgalaxy, greekdiamond, pwtorrents, microbit, moviesdvdr, tjupt, mediamaatjes, pttime, torrentlt, coastalcrew, brasiltracker, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, zooqle, limetorrentsclone, btschool, rudub, houseofdevil, scenepalace, limetorrents, themixingbowl, hqsource, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, netcosmo, whiteangel, tlfbits, u2, trancetraffic, oxtorrent, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, torrentsurf, ilcorsaroblu, spidertk, hellastz, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, anaschcc, the-devils-lounge, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, purovicio, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, fouducinema, newpct-me, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, trackeros-api, torrentleech-pl, turktracker, sdbits, speedmasterhd, ptfiles, hdcenter, badasstorrents, btetree, chilebt, torrentland-api, torrenting, torrentdownloads, torrentsir, pornolive, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, soundpark, nethd, pthome, datatalli, redbits-api, immortuos, alleenretail, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, hdcity, film-paleis, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, swarmazon, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, underversel, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, torrentparadise, mousebits, fanoin, btdigg, selezen, bitcityreloaded, animeclipse, 52pt, wdt, aidoruonline, esharenet, puurhollands, newstudio 
+2022-04-01 07:39:58.8534 Info Loaded 579 indexers in total 
+2022-04-01 07:39:58.8534 Info Adding aggregate indexer ('all' indexer) ... 
+2022-04-01 07:39:58.8617 Info Adding filter indexer ('type:public' indexer) ... 
+2022-04-01 07:39:58.8617 Info Adding filter indexer ('type:private' indexer) ... 
+2022-04-01 07:39:58.8617 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-04-01 07:39:58.8678 Info Deleting JackettUpdate temp files from /tmp/JackettUpdate-v0.20.781-637843955917801809 
+2022-04-01 07:39:59.0901 Info Jackett startup finished in 3.968 s 
+2022-04-01 07:45:12.8745 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 07:45:14.1882 Info Torznab search in The Pirate Bay => Found 19 releases 
+2022-04-01 07:45:14.3283 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 08:00:42.8221 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 08:00:42.8235 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 08:00:42.8235 Info Torznab search in The Pirate Bay => Found 19 releases (from cache) 
+2022-04-01 08:16:13.0556 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 08:16:13.0556 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 08:16:13.0556 Info Torznab search in The Pirate Bay => Found 19 releases (from cache) 
+2022-04-01 08:31:43.4111 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 08:31:44.3721 Info Torznab search in The Pirate Bay => Found 18 releases 
+2022-04-01 08:31:44.3896 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 08:34:41.2664 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 08:34:41.2664 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 08:34:42.1498 Info Torznab search in The Pirate Bay => Found 15 releases 
+2022-04-01 08:34:42.4283 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 08:39:58.9294 Info Checking for updates... Jackett variant: CoreLinuxAmdx64 
+2022-04-01 08:39:59.4194 Info Jackett is already updated. Current version: v0.20.781 
+2022-04-01 08:47:13.5987 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 08:47:13.5994 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 08:47:13.5994 Info Torznab search in The Pirate Bay => Found 18 releases (from cache) 
+2022-04-01 09:02:43.6923 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 09:02:43.6923 Info Torznab search in The Pirate Bay => Found 18 releases (from cache) 
+2022-04-01 09:02:43.6958 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 09:18:13.8982 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 09:18:14.7578 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 09:18:14.7945 Info Torznab search in The Pirate Bay => Found 17 releases 
+2022-04-01 09:33:44.0402 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 09:33:44.0402 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 09:33:44.0402 Info Torznab search in The Pirate Bay => Found 17 releases (from cache) 
+2022-04-01 09:35:11.9882 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 09:35:11.9882 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 09:35:12.9233 Info Torznab search in The Pirate Bay => Found 4 releases 
+2022-04-01 09:35:13.0960 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 09:49:14.2358 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 09:49:14.2358 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 09:49:14.2358 Info Torznab search in The Pirate Bay => Found 17 releases (from cache) 
+2022-04-01 10:04:44.5712 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 10:04:45.3848 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 10:04:45.4302 Info Torznab search in The Pirate Bay => Found 24 releases 
+2022-04-01 10:20:14.7979 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 10:20:14.7979 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 10:20:14.7979 Info Torznab search in The Pirate Bay => Found 24 releases (from cache) 
+2022-04-01 10:35:42.8164 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 10:35:42.8164 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 10:35:43.8445 Info Torznab search in The Pirate Bay => Found 0 releases 
+2022-04-01 10:35:44.3330 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 10:35:44.9877 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 10:35:44.9913 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 10:35:44.9913 Info Torznab search in The Pirate Bay => Found 24 releases (from cache) 
+2022-04-01 10:51:15.2629 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 10:51:16.1843 Info Torznab search in The Pirate Bay => Found 11 releases 
+2022-04-01 10:51:16.2097 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 11:06:45.3682 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 11:06:45.3682 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 11:06:45.3682 Info Torznab search in The Pirate Bay => Found 11 releases (from cache) 
+2022-04-01 11:22:15.5261 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 11:22:15.5261 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 11:22:15.5261 Info Torznab search in The Pirate Bay => Found 11 releases (from cache) 
+2022-04-01 11:36:13.6983 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 11:36:13.6983 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 11:36:14.5945 Info Torznab search in The Pirate Bay => Found 0 releases 
+2022-04-01 11:36:14.8259 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 11:37:45.6770 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 11:37:46.4285 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 11:37:46.5325 Info Torznab search in The Pirate Bay => Found 12 releases 
+2022-04-01 11:53:15.7675 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 11:53:15.7675 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 11:53:15.7675 Info Torznab search in The Pirate Bay => Found 12 releases (from cache) 
+2022-04-01 12:08:45.8634 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 12:08:45.8634 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 12:08:45.8634 Info Torznab search in The Pirate Bay => Found 12 releases (from cache) 
+2022-04-01 12:24:16.0165 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 12:24:16.9953 Info Torznab search in The Pirate Bay => Found 8 releases 
+2022-04-01 12:24:17.0078 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 12:36:44.6887 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 12:36:44.6887 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 12:36:45.6123 Info Torznab search in The Pirate Bay => Found 1 releases 
+2022-04-01 12:36:45.7492 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 12:39:46.2362 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 12:39:46.2362 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 12:39:46.2362 Info Torznab search in The Pirate Bay => Found 8 releases (from cache) 
+2022-04-01 12:55:16.3490 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 12:55:16.3490 Info Torznab search in The Pirate Bay => Found 8 releases (from cache) 
+2022-04-01 12:55:16.3574 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 13:10:46.6213 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 13:10:47.4778 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 13:10:47.5462 Info Torznab search in The Pirate Bay => Found 25 releases 
+2022-04-01 13:26:16.8798 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 13:26:16.8798 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 13:26:16.8798 Info Torznab search in The Pirate Bay => Found 25 releases (from cache) 
+2022-04-01 13:37:15.6441 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 13:37:15.6501 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 13:37:16.5855 Info Torznab search in The Pirate Bay => Found 0 releases 
+2022-04-01 13:37:16.7612 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 13:41:47.0679 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 13:41:47.0679 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 13:41:47.0679 Info Torznab search in The Pirate Bay => Found 25 releases (from cache) 
+2022-04-01 13:57:17.3247 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 13:57:18.2605 Info Torznab search in The Pirate Bay => Found 20 releases 
+2022-04-01 13:57:18.3602 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 14:12:47.6400 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 14:12:47.6400 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 14:12:47.6400 Info Torznab search in The Pirate Bay => Found 20 releases (from cache) 
+2022-04-01 14:28:17.9076 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 14:28:17.9076 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 14:28:17.9076 Info Torznab search in The Pirate Bay => Found 20 releases (from cache) 
+2022-04-01 14:37:46.2242 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 14:37:46.2242 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 14:37:47.0718 Info Torznab search in The Pirate Bay => Found 2 releases 
+2022-04-01 14:37:47.3143 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 14:43:48.2793 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 14:43:49.1013 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 14:43:49.1418 Info Torznab search in The Pirate Bay => Found 14 releases 
+2022-04-01 14:59:18.4336 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 14:59:18.4336 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 14:59:18.4336 Info Torznab search in The Pirate Bay => Found 14 releases (from cache) 
+2022-04-01 15:14:48.6749 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 15:14:48.6749 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 15:14:48.6749 Info Torznab search in The Pirate Bay => Found 14 releases (from cache) 
+2022-04-01 15:30:19.0071 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 15:30:19.9247 Info Torznab search in The Pirate Bay => Found 20 releases 
+2022-04-01 15:30:20.1746 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 15:38:17.0342 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 15:38:17.0342 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 15:38:17.9184 Info Torznab search in The Pirate Bay => Found 5 releases 
+2022-04-01 15:38:18.1605 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 15:45:49.2316 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 15:45:49.2316 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 15:45:49.2316 Info Torznab search in The Pirate Bay => Found 20 releases (from cache) 
+2022-04-01 16:01:19.5399 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 16:01:19.5399 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 16:01:19.5399 Info Torznab search in The Pirate Bay => Found 20 releases (from cache) 
+2022-04-01 16:16:49.8187 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 16:16:51.0477 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 16:16:51.2555 Info Torznab search in The Pirate Bay => Found 1 releases 
+2022-04-01 16:32:20.0183 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 16:32:20.0183 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 16:32:20.0183 Info Torznab search in The Pirate Bay => Found 1 releases (from cache) 
+2022-04-01 16:38:47.5917 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 16:38:47.5917 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 16:38:48.4756 Info Torznab search in The Pirate Bay => Found 0 releases 
+2022-04-01 16:38:48.7260 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 16:47:50.2429 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 16:47:50.2429 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 16:47:50.2429 Info Torznab search in The Pirate Bay => Found 1 releases (from cache) 
+2022-04-01 17:02:50.5846 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 17:02:51.4674 Info Torznab search in The Pirate Bay => Found 3 releases 
+2022-04-01 17:03:03.3752 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 17:18:20.9071 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 17:18:20.9071 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 17:18:20.9071 Info Torznab search in The Pirate Bay => Found 3 releases (from cache) 
+2022-04-01 17:33:51.1162 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 17:33:51.1162 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 17:33:51.1162 Info Torznab search in The Pirate Bay => Found 3 releases (from cache) 
+2022-04-01 17:39:18.3518 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 17:39:18.3518 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 17:39:19.2011 Info Torznab search in The Pirate Bay => Found 2 releases 
+2022-04-01 17:39:19.5782 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 17:49:21.3173 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 17:49:22.1452 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 17:49:22.1919 Info Torznab search in The Pirate Bay => Found 5 releases 
+2022-04-01 18:04:51.5393 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 18:04:51.5393 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 18:04:51.5393 Info Torznab search in The Pirate Bay => Found 5 releases (from cache) 
+2022-04-01 18:20:21.7598 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 18:20:21.7598 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 18:20:21.7598 Info Torznab search in The Pirate Bay => Found 5 releases (from cache) 
+2022-04-01 18:35:51.9726 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 18:35:52.7958 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 18:35:52.8996 Info Torznab search in The Pirate Bay => Found 7 releases 
+2022-04-01 18:39:49.5786 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 18:39:49.5836 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 18:39:50.4233 Info Torznab search in The Pirate Bay => Found 0 releases 
+2022-04-01 18:39:50.6599 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 18:51:22.4795 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 18:51:22.4795 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 18:51:22.4795 Info Torznab search in The Pirate Bay => Found 7 releases (from cache) 
+2022-04-01 19:06:52.6354 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 19:06:52.6354 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 19:06:52.6354 Info Torznab search in The Pirate Bay => Found 7 releases (from cache) 
+2022-04-01 19:22:22.7631 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 19:22:23.6749 Info Torznab search in The Pirate Bay => Found 5 releases 
+2022-04-01 19:22:23.6826 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 19:37:52.9956 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 19:37:52.9956 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 19:37:52.9956 Info Torznab search in The Pirate Bay => Found 5 releases (from cache) 
+2022-04-01 19:40:20.4616 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 19:40:20.4646 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 19:40:21.3041 Info Torznab search in The Pirate Bay => Found 3 releases 
+2022-04-01 19:40:21.6147 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 19:53:23.1518 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 19:53:23.1518 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 19:53:23.1518 Info Torznab search in The Pirate Bay => Found 5 releases (from cache) 
+2022-04-01 20:08:53.3323 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 20:08:54.2227 Info Torznab search in The Pirate Bay => Found 4 releases 
+2022-04-01 20:08:54.3373 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 20:24:23.8390 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 20:24:23.8390 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 20:24:23.8390 Info Torznab search in The Pirate Bay => Found 4 releases (from cache) 
+2022-04-01 20:39:54.0435 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 20:39:54.0435 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 20:39:54.0435 Info Torznab search in The Pirate Bay => Found 4 releases (from cache) 
+2022-04-01 20:40:51.4557 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 20:40:51.4557 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 20:40:52.3495 Info Torznab search in The Pirate Bay => Found 0 releases 
+2022-04-01 20:40:52.6441 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 20:55:24.2194 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 20:55:25.0191 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 20:55:25.1287 Info Torznab search in The Pirate Bay => Found 9 releases 
+2022-04-01 21:10:54.5120 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 21:10:54.5120 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 21:10:54.5120 Info Torznab search in The Pirate Bay => Found 9 releases (from cache) 
+2022-04-01 21:17:19.1020 Info Starting Jackett v0.20.779 
+2022-04-01 21:17:19.8778 Info Environment version: 6.0.3 (/app/Jackett/) 
+2022-04-01 21:17:19.8778 Info OS version: Unix 5.13.0.39 (64bit OS) (64bit process) 
+2022-04-01 21:17:19.8797 Info Jackett variant: CoreLinuxAmdx64 
+2022-04-01 21:17:19.8797 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2022-04-01 21:17:19.8797 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2022-04-01 21:17:19.8797 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-04-01 21:17:19.8797 Info App config/log directory: /config/Jackett 
+2022-04-01 21:17:19.8797 Info Using proxy: Disabled 
+2022-04-01 21:17:19.8797 Info Using FlareSolverr: No 
+2022-04-01 21:17:19.8850 Info Using HTTP Client: HttpWebClient2 
+2022-04-01 21:17:19.8904 Info Loading Native indexers ... 
+2022-04-01 21:17:20.0321 Info Loaded 83 Native indexers: abnormal, alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, greatposterwall, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, morethantv, myanonamouse, ncore, nebulance, norbits, oppaitime, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentmafya, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho 
+2022-04-01 21:17:20.0363 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-04-01 21:17:21.8381 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, dragonworldreloaded, blutopia-api, jme-reunit3d, backups, gktorrent, deildu, movietorrentz, acgrip, hdbitscom, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, pornotor, ilcorsaronero, ccfbits, trezzor, piratadigital, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, elitetorrent-biz, crackingpatching, insanetracker, vizuk, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, portugas, desitorrents-api, sugoimusic, nbtorrents, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, twilightszoom, torlook, hd4fans, 2fast4you, kisssub, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, cryptichaven, underverse, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, omgwtftrackr, moviesite, aniRena, theaudioscene, wihd, aftershock, peerjunkies, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, hamsterstudio, crazyhd, mononokebt, libranet, xbit, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, gfxpeers, catorrent, torrentslocal, prostylex, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, p2pelite, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, bluesbrothers, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, hidden-palace, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, hdme, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, iv-torrents, torrentfunk, kickasstorrents-to, classix, nitro, bitded, 3dtorrents, hdmonkey, bitbr, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, kinonavse100, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, netlab, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, torrentdb, pornbits, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, hdai, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, ibit, hdspain, digitalcore, ebookparadijs, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, thehorrorcharnel, peeratiko, bithorlo, theshinning, ehentai, hdturk, haitang, animeitalia, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, ilcorsaroverde, 24rolika, milkie, opensharing, nntt, torrentgalaxy, greekdiamond, pwtorrents, microbit, moviesdvdr, tjupt, mediamaatjes, pttime, torrentlt, coastalcrew, brasiltracker, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, zooqle, limetorrentsclone, btschool, rudub, houseofdevil, scenepalace, limetorrents, themixingbowl, hqsource, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, netcosmo, whiteangel, tlfbits, u2, trancetraffic, oxtorrent, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, torrentsurf, ilcorsaroblu, spidertk, hellastz, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, anaschcc, the-devils-lounge, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, purovicio, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, fouducinema, newpct-me, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, trackeros-api, torrentleech-pl, turktracker, sdbits, speedmasterhd, ptfiles, hdcenter, badasstorrents, btetree, chilebt, torrentland-api, torrenting, torrentdownloads, torrentsir, pornolive, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, soundpark, nethd, pthome, datatalli, redbits-api, immortuos, alleenretail, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, hdcity, film-paleis, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, swarmazon, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, underversel, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, torrentparadise, mousebits, fanoin, btdigg, selezen, bitcityreloaded, animeclipse, 52pt, wdt, aidoruonline, esharenet, puurhollands, newstudio 
+2022-04-01 21:17:21.8381 Info Loaded 579 indexers in total 
+2022-04-01 21:17:21.8396 Info Adding aggregate indexer ('all' indexer) ... 
+2022-04-01 21:17:21.8471 Info Adding filter indexer ('type:public' indexer) ... 
+2022-04-01 21:17:21.8471 Info Adding filter indexer ('type:private' indexer) ... 
+2022-04-01 21:17:21.8471 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-04-01 21:17:22.0129 Info Jackett startup finished in 4.211 s 
+2022-04-01 21:26:05.8965 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 21:26:07.3095 Info Torznab search in The Pirate Bay for Parks and Recreation S01 => Found 6 releases 
+2022-04-01 21:26:07.9431 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 21:26:08.7828 Info Torznab search in The Pirate Bay for Parks and Recreation S02 => Found 3 releases 
+2022-04-01 21:26:09.9409 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 21:26:10.7823 Info Torznab search in The Pirate Bay for Parks and Recreation S03 => Found 3 releases 
+2022-04-01 21:26:11.9416 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 21:26:12.7812 Info Torznab search in The Pirate Bay for Parks and Recreation S04 => Found 3 releases 
+2022-04-01 21:26:13.9410 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 21:26:14.5805 Info Torznab search in The Pirate Bay for Parks and Recreation S05 => Found 3 releases 
+2022-04-01 21:26:15.9429 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 21:26:16.7815 Info Torznab search in The Pirate Bay for Parks and Recreation S06 => Found 4 releases 
+2022-04-01 21:26:17.9412 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 21:26:18.5813 Info Torznab search in The Pirate Bay for Parks and Recreation S07 => Found 6 releases 
+2022-04-01 21:26:19.9396 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 21:26:20.2668 Info Torznab search in EZTV => Found 100 releases 
+2022-04-01 21:26:20.6482 Info Torznab search in The Pirate Bay => Found 12 releases 
+2022-04-01 21:26:43.6033 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2022-04-01 21:30:43.2099 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 21:30:43.2099 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 21:30:44.4956 Info Torznab search in kickasstorrents.to for Batman Begins 2005 => Found 99 releases 
+2022-04-01 21:30:44.5306 Info Torznab search in The Pirate Bay for Batman Begins 2005 => Found 98 releases 
+2022-04-01 21:36:56.7003 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 21:36:56.7003 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 21:36:56.7003 Info Torznab search in kickasstorrents.to for Batman Begins 2005 => Found 99 releases (from cache) 
+2022-04-01 21:36:56.7003 Info Torznab search in The Pirate Bay for Batman Begins 2005 => Found 98 releases (from cache) 
+2022-04-01 21:38:17.6209 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 21:38:17.6209 Info Torznab search in kickasstorrents.to for Batman Begins 2005 => Found 99 releases (from cache) 
+2022-04-01 21:38:17.6209 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 21:38:17.6229 Info Torznab search in The Pirate Bay for Batman Begins 2005 => Found 98 releases (from cache) 
+2022-04-01 21:39:31.5209 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 21:39:31.5209 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 21:39:32.6888 Info Torznab search in kickasstorrents.to for Matrix 1999 => Found 99 releases 
+2022-04-01 21:39:32.7803 Info Torznab search in The Pirate Bay for Matrix 1999 => Found 99 releases 
+2022-04-01 21:39:35.8938 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 21:39:35.8938 Info Torznab search in The Pirate Bay for Matrix 1999 => Found 99 releases (from cache) 
+2022-04-01 21:39:35.8952 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 21:39:35.8952 Info Torznab search in kickasstorrents.to for Matrix 1999 => Found 99 releases (from cache) 
+2022-04-01 21:41:15.0515 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2022-04-01 21:41:15.0515 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2022-04-01 21:41:15.9084 Info Torznab search in The Pirate Bay => Found 1 releases 
+2022-04-01 21:41:16.1449 Info Torznab search in kickasstorrents.to => Found 10 releases 
+2022-04-01 21:41:49.4471 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2022-04-01 21:41:49.4471 Info Torznab search in The Pirate Bay => Found 12 releases (from cache) 
+2022-04-01 21:41:49.4508 Info Torznab search in EZTV => Found 100 releases (from cache) 

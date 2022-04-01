@@ -1,0 +1,6 @@
+
+*.jpg
+sonarr/config/logs/*
+transmission/resume/*
+*.resume
+*.torrent

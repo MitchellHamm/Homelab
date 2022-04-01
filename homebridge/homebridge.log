@@ -2716,3 +2716,195 @@ Enter this code with your HomeKit app on your iOS device to pair with Homebridge
 [37m[3/31/2022, 11:56:45 PM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Consumption': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
 [37m[3/31/2022, 11:56:45 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Livingroom lamp] plug [8006C3D9136178363FF80946CB49CE1D188B60EF] 10.0.0.203 9999
 [37m[3/31/2022, 11:56:45 PM] [39m[36m[TplinkSmarthome][39m Adding: [Livingroom lamp] plug [8006C3D9136178363FF80946CB49CE1D188B60EF]
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+
+[37m[4/1/2022, 12:33:44 AM][0m [36m[HB Supervisor][0m OS: Linux 5.13.0-39-generic x64
+[37m[4/1/2022, 12:33:44 AM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[4/1/2022, 12:33:44 AM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[4/1/2022, 12:33:44 AM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[4/1/2022, 12:33:47 AM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.41.5 is listening on :: port 8581[0m
+[37m[4/1/2022, 12:33:47 AM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[4/1/2022, 12:33:47 AM][0m [36m[HB Supervisor][0m Started Homebridge v1.3.8 with PID: 406
+[37m[4/1/2022, 12:33:47 AM] [39mLoaded config.json with 0 accessories and 2 platforms.
+[37m[4/1/2022, 12:33:47 AM] [39mLoaded 4 cached accessories from cachedAccessories.
+[37m[4/1/2022, 12:33:47 AM] [39m---
+[37m[4/1/2022, 12:33:48 AM] [39mLoaded plugin: homebridge-dummy@0.5.0
+[37m[4/1/2022, 12:33:48 AM] [39mRegistering accessory 'homebridge-dummy.DummySwitch'
+[37m[4/1/2022, 12:33:48 AM] [39m---
+[37m[4/1/2022, 12:33:48 AM] [39mLoaded plugin: homebridge-config-ui-x@4.41.5
+[37m[4/1/2022, 12:33:48 AM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[4/1/2022, 12:33:48 AM] [39m---
+[37m[4/1/2022, 12:33:48 AM] [39mLoaded plugin: homebridge-tplink-smarthome@6.4.0
+[37m[4/1/2022, 12:33:48 AM] [39mRegistering platform 'homebridge-tplink-smarthome.TplinkSmarthome'
+[37m[4/1/2022, 12:33:48 AM] [39m---
+[37m[4/1/2022, 12:33:48 AM] [39mLoading 2 platforms...
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[Config][39m Initializing config platform...
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[Config][39m Running in Service Mode
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m Initializing TplinkSmarthome platform...
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m homebridge-tplink-smarthome v6.4.0, node v16.13.1, homebridge v1.3.8, api v2.7
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Couch Light] UUID: 09fbb39c-92d0-44f0-90e5-bd1598c3bbab deviceId: 8006C3D9136178363FF80946CB49CE1D188B60EF 
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Kitchen light] UUID: 2afe7f38-ede4-48e8-ad08-d660babb9743 deviceId: 800666976691733F83C06319DB823A291D4E6BD4 
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Chair Light] UUID: 73d8702a-583d-4edd-8349-c63499a09b5c deviceId: 800636395926020D3ECA7446F9D67FFC188B1CCD 
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Tv] UUID: 9f3eb69c-09e5-4b96-bacc-66ccee886409 deviceId: 800665D6CB1B0BEC9FEB7FF49C4979B718353ECC 
+Setup Payload:
+X-HM://0023ISYWYECZ9
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-154 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[4/1/2022, 12:33:48 AM] [39mHomebridge v1.3.8 (HAP v0.9.7) (Homebridge 1471) is running on port 52353.
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m New Device Online: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4] 10.0.0.77 9999
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m Adding: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4]
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m New Device Online: [Kitchen pot lights] plug [800665D6CB1B0BEC9FEB7FF49C4979B718353ECC] 10.0.0.183 9999
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m Adding: [Kitchen pot lights] plug [800665D6CB1B0BEC9FEB7FF49C4979B718353ECC]
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Amperes': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Total Consumption': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Apparent Power': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Volts': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Consumption': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m New Device Online: [Livingroom lamp] plug [800636395926020D3ECA7446F9D67FFC188B1CCD] 10.0.0.85 9999
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m Adding: [Livingroom lamp] plug [800636395926020D3ECA7446F9D67FFC188B1CCD]
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m New Device Online: [Livingroom lamp] plug [8006C3D9136178363FF80946CB49CE1D188B60EF] 10.0.0.203 9999
+[37m[4/1/2022, 12:33:48 AM] [39m[36m[TplinkSmarthome][39m Adding: [Livingroom lamp] plug [8006C3D9136178363FF80946CB49CE1D188B60EF]
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+
+[37m[4/1/2022, 12:39:41 AM][0m [36m[HB Supervisor][0m OS: Linux 5.13.0-39-generic x64
+[37m[4/1/2022, 12:39:41 AM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[4/1/2022, 12:39:41 AM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[4/1/2022, 12:39:41 AM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[4/1/2022, 12:39:42 AM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.41.5 is listening on :: port 8581[0m
+[37m[4/1/2022, 12:39:42 AM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[4/1/2022, 12:39:42 AM][0m [36m[HB Supervisor][0m Started Homebridge v1.3.8 with PID: 405
+[37m[4/1/2022, 12:39:43 AM] [39mLoaded config.json with 0 accessories and 2 platforms.
+[37m[4/1/2022, 12:39:43 AM] [39mLoaded 4 cached accessories from cachedAccessories.
+[37m[4/1/2022, 12:39:43 AM] [39m---
+[37m[4/1/2022, 12:39:43 AM] [39mLoaded plugin: homebridge-dummy@0.5.0
+[37m[4/1/2022, 12:39:43 AM] [39mRegistering accessory 'homebridge-dummy.DummySwitch'
+[37m[4/1/2022, 12:39:43 AM] [39m---
+[37m[4/1/2022, 12:39:43 AM] [39mLoaded plugin: homebridge-config-ui-x@4.41.5
+[37m[4/1/2022, 12:39:43 AM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[4/1/2022, 12:39:43 AM] [39m---
+[37m[4/1/2022, 12:39:43 AM] [39mLoaded plugin: homebridge-tplink-smarthome@6.4.0
+[37m[4/1/2022, 12:39:43 AM] [39mRegistering platform 'homebridge-tplink-smarthome.TplinkSmarthome'
+[37m[4/1/2022, 12:39:43 AM] [39m---
+[37m[4/1/2022, 12:39:43 AM] [39mLoading 2 platforms...
+[37m[4/1/2022, 12:39:43 AM] [39m[36m[Config][39m Initializing config platform...
+[37m[4/1/2022, 12:39:43 AM] [39m[36m[Config][39m Running in Service Mode
+[37m[4/1/2022, 12:39:43 AM] [39m[36m[TplinkSmarthome][39m Initializing TplinkSmarthome platform...
+[37m[4/1/2022, 12:39:43 AM] [39m[36m[TplinkSmarthome][39m homebridge-tplink-smarthome v6.4.0, node v16.13.1, homebridge v1.3.8, api v2.7
+[37m[4/1/2022, 12:39:43 AM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Couch Light] UUID: 09fbb39c-92d0-44f0-90e5-bd1598c3bbab deviceId: 8006C3D9136178363FF80946CB49CE1D188B60EF 
+[37m[4/1/2022, 12:39:43 AM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Kitchen light] UUID: 2afe7f38-ede4-48e8-ad08-d660babb9743 deviceId: 800666976691733F83C06319DB823A291D4E6BD4 
+[37m[4/1/2022, 12:39:43 AM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Chair Light] UUID: 73d8702a-583d-4edd-8349-c63499a09b5c deviceId: 800636395926020D3ECA7446F9D67FFC188B1CCD 
+[37m[4/1/2022, 12:39:43 AM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Tv] UUID: 9f3eb69c-09e5-4b96-bacc-66ccee886409 deviceId: 800665D6CB1B0BEC9FEB7FF49C4979B718353ECC 
+Setup Payload:
+X-HM://0023ISYWYECZ9
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-154 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[4/1/2022, 12:39:43 AM] [39mHomebridge v1.3.8 (HAP v0.9.7) (Homebridge 1471) is running on port 52353.
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[TplinkSmarthome][39m New Device Online: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4] 10.0.0.77 9999
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[TplinkSmarthome][39m Adding: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4]
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[TplinkSmarthome][39m New Device Online: [Livingroom lamp] plug [800636395926020D3ECA7446F9D67FFC188B1CCD] 10.0.0.85 9999
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[TplinkSmarthome][39m Adding: [Livingroom lamp] plug [800636395926020D3ECA7446F9D67FFC188B1CCD]
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[TplinkSmarthome][39m New Device Online: [Livingroom lamp] plug [8006C3D9136178363FF80946CB49CE1D188B60EF] 10.0.0.203 9999
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[TplinkSmarthome][39m Adding: [Livingroom lamp] plug [8006C3D9136178363FF80946CB49CE1D188B60EF]
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[TplinkSmarthome][39m New Device Online: [Kitchen pot lights] plug [800665D6CB1B0BEC9FEB7FF49C4979B718353ECC] 10.0.0.183 9999
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[TplinkSmarthome][39m Adding: [Kitchen pot lights] plug [800665D6CB1B0BEC9FEB7FF49C4979B718353ECC]
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Amperes': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Total Consumption': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Apparent Power': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Volts': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 12:39:44 AM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Consumption': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[0;37m[4/1/2022, 12:48:00 AM] [0m[0;36m[Homebridge UI][0m Running scheduled instance backup...
+[0;37m[4/1/2022, 12:48:00 AM] [0m[0;36m[Homebridge UI][0m Creating temporary backup archive at /tmp/homebridge-backup-S7ggoL/homebridge-backup-0EB4B9ACA62D.tar.gz
+[0;37m[4/1/2022, 1:10:07 AM] [0m[0;36m[Homebridge UI][0m Running job to cleanup config.json backup files older than 60 days...
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+
+[37m[4/1/2022, 3:17:17 PM][0m [36m[HB Supervisor][0m OS: Linux 5.13.0-39-generic x64
+[37m[4/1/2022, 3:17:17 PM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[4/1/2022, 3:17:17 PM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[4/1/2022, 3:17:17 PM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[4/1/2022, 3:17:20 PM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.41.5 is listening on :: port 8581[0m
+[37m[4/1/2022, 3:17:20 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[4/1/2022, 3:17:20 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.3.8 with PID: 421
+[37m[4/1/2022, 3:17:21 PM] [39mLoaded config.json with 0 accessories and 2 platforms.
+[37m[4/1/2022, 3:17:21 PM] [39mLoaded 4 cached accessories from cachedAccessories.
+[37m[4/1/2022, 3:17:21 PM] [39m---
+[37m[4/1/2022, 3:17:21 PM] [39mLoaded plugin: homebridge-dummy@0.5.0
+[37m[4/1/2022, 3:17:21 PM] [39mRegistering accessory 'homebridge-dummy.DummySwitch'
+[37m[4/1/2022, 3:17:21 PM] [39m---
+[37m[4/1/2022, 3:17:21 PM] [39mLoaded plugin: homebridge-config-ui-x@4.41.5
+[37m[4/1/2022, 3:17:21 PM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[4/1/2022, 3:17:21 PM] [39m---
+[37m[4/1/2022, 3:17:21 PM] [39mLoaded plugin: homebridge-tplink-smarthome@6.4.0
+[37m[4/1/2022, 3:17:21 PM] [39mRegistering platform 'homebridge-tplink-smarthome.TplinkSmarthome'
+[37m[4/1/2022, 3:17:21 PM] [39m---
+[37m[4/1/2022, 3:17:21 PM] [39mLoading 2 platforms...
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[Config][39m Initializing config platform...
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[Config][39m Running in Service Mode
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m Initializing TplinkSmarthome platform...
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m homebridge-tplink-smarthome v6.4.0, node v16.13.1, homebridge v1.3.8, api v2.7
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Couch Light] UUID: 09fbb39c-92d0-44f0-90e5-bd1598c3bbab deviceId: 8006C3D9136178363FF80946CB49CE1D188B60EF 
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Kitchen light] UUID: 2afe7f38-ede4-48e8-ad08-d660babb9743 deviceId: 800666976691733F83C06319DB823A291D4E6BD4 
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Chair Light] UUID: 73d8702a-583d-4edd-8349-c63499a09b5c deviceId: 800636395926020D3ECA7446F9D67FFC188B1CCD 
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Tv] UUID: 9f3eb69c-09e5-4b96-bacc-66ccee886409 deviceId: 800665D6CB1B0BEC9FEB7FF49C4979B718353ECC 
+Setup Payload:
+X-HM://0023ISYWYECZ9
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-154 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[4/1/2022, 3:17:21 PM] [39mHomebridge v1.3.8 (HAP v0.9.7) (Homebridge 1471) is running on port 52353.
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4] 10.0.0.77 9999
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m Adding: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4]
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Livingroom lamp] plug [800636395926020D3ECA7446F9D67FFC188B1CCD] 10.0.0.85 9999
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m Adding: [Livingroom lamp] plug [800636395926020D3ECA7446F9D67FFC188B1CCD]
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Kitchen pot lights] plug [800665D6CB1B0BEC9FEB7FF49C4979B718353ECC] 10.0.0.183 9999
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m Adding: [Kitchen pot lights] plug [800665D6CB1B0BEC9FEB7FF49C4979B718353ECC]
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Amperes': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Total Consumption': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Apparent Power': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Volts': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[homebridge-tplink-smarthome][39m This plugin generated a warning from the characteristic 'Consumption': Characteristic not in required or optional characteristic section for service Outlet. Adding anyway.. See https://git.io/JtMGR for more info.
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Livingroom lamp] plug [8006C3D9136178363FF80946CB49CE1D188B60EF] 10.0.0.203 9999
+[37m[4/1/2022, 3:17:21 PM] [39m[36m[TplinkSmarthome][39m Adding: [Livingroom lamp] plug [8006C3D9136178363FF80946CB49CE1D188B60EF]

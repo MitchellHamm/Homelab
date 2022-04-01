@@ -1,0 +1,353 @@
+[37m[1/9/2022, 3:44:52 PM][0m [36m[HB Supervisor][0m Adding missing UI platform block to /homebridge/config.json
+[37m[1/9/2022, 3:44:52 PM][0m [36m[HB Supervisor][0m OS: Linux 5.4.0-42-generic x64
+[37m[1/9/2022, 3:44:52 PM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[1/9/2022, 3:44:52 PM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[1/9/2022, 3:44:52 PM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[1/9/2022, 3:44:54 PM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.41.5 is listening on :: port 8581[0m
+[37m[1/9/2022, 3:44:54 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[1/9/2022, 3:44:54 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.3.8 with PID: 411
+[0;37m[1/9/2022, 3:44:54 PM] [0m[0;36m[Homebridge UI][0m [0;33mAdded new user: admin[0m
+[0;37m[1/9/2022, 3:44:54 PM] [0m[0;36m[Homebridge UI][0m Username and password have been set to default:
+[0;37m[1/9/2022, 3:44:54 PM] [0m[0;36m[Homebridge UI][0m Username: admin
+[0;37m[1/9/2022, 3:44:54 PM] [0m[0;36m[Homebridge UI][0m Password: admin
+[37m[1/9/2022, 3:44:54 PM] [39mLoaded config.json with 0 accessories and 1 platforms.
+[37m[1/9/2022, 3:44:54 PM] [39m---
+[37m[1/9/2022, 3:44:54 PM] [39mLoaded plugin: homebridge-dummy@0.5.0
+[37m[1/9/2022, 3:44:54 PM] [39mRegistering accessory 'homebridge-dummy.DummySwitch'
+[37m[1/9/2022, 3:44:54 PM] [39m---
+[37m[1/9/2022, 3:44:54 PM] [39mLoaded plugin: homebridge-config-ui-x@4.41.5
+[37m[1/9/2022, 3:44:54 PM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[1/9/2022, 3:44:54 PM] [39m---
+[37m[1/9/2022, 3:44:54 PM] [39mLoading 1 platforms...
+[37m[1/9/2022, 3:44:54 PM] [39m[36m[Config][39m Initializing config platform...
+[37m[1/9/2022, 3:44:54 PM] [39m[36m[Config][39m Running in Service Mode
+Setup Payload:
+X-HM://0023ISYWYSSBZ
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-154 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[1/9/2022, 3:44:54 PM] [39mHomebridge v1.3.8 (HAP v0.9.7) (Homebridge 1471) is running on port 52353.
+[0;37m[1/9/2022, 3:46:59 PM] [0m[0;36m[Homebridge UI][0m Running Command: npm install --save homebridge-tplink-hs100-lightbulbs@latest
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+
+[37m[1/9/2022, 3:49:32 PM][0m [36m[HB Supervisor][0m OS: Linux 5.4.0-42-generic x64
+[37m[1/9/2022, 3:49:32 PM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[1/9/2022, 3:49:32 PM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[1/9/2022, 3:49:32 PM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[1/9/2022, 3:49:33 PM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.41.5 is listening on :: port 8581[0m
+[37m[1/9/2022, 3:49:33 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[1/9/2022, 3:49:33 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.3.8 with PID: 370
+[37m[1/9/2022, 3:49:34 PM] [39mLoaded config.json with 0 accessories and 1 platforms.
+[37m[1/9/2022, 3:49:34 PM] [39m---
+[37m[1/9/2022, 3:49:34 PM] [39mLoaded plugin: homebridge-dummy@0.5.0
+[37m[1/9/2022, 3:49:34 PM] [39mRegistering accessory 'homebridge-dummy.DummySwitch'
+[37m[1/9/2022, 3:49:34 PM] [39m---
+[37m[1/9/2022, 3:49:34 PM] [39m[31m====================[39m
+[37m[1/9/2022, 3:49:34 PM] [39m[31mERROR LOADING PLUGIN homebridge-tplink-hs100-lightbulbs:[39m
+[37m[1/9/2022, 3:49:34 PM] [39m[31mError [ERR_REQUIRE_ESM]: require() of ES Module /homebridge/node_modules/homebridge-tplink-hs100-lightbulbs/node_modules/tplink-lightbulb/dist/tplink-lightbulb.modern.js from /homebridge/node_modules/homebridge-tplink-hs100-lightbulbs/index.js not supported.[39m
+[31mInstead change the require of tplink-lightbulb.modern.js in /homebridge/node_modules/homebridge-tplink-hs100-lightbulbs/index.js to a dynamic import() which is available in all CommonJS modules.[39m
+[31m    at Object.<anonymous> (/homebridge/node_modules/homebridge-tplink-hs100-lightbulbs/index.js:4:14)[39m
+[31m    at Plugin.load (/usr/local/lib/node_modules/homebridge/lib/plugin.js:132:77)[39m
+[31m    at PluginManager.initializeInstalledPlugins (/usr/local/lib/node_modules/homebridge/lib/pluginManager.js:64:30)[39m
+[31m    at async Server.start (/usr/local/lib/node_modules/homebridge/lib/server.js:106:9)[39m
+[37m[1/9/2022, 3:49:34 PM] [39m[31m====================[39m
+[37m[1/9/2022, 3:49:34 PM] [39mLoaded plugin: homebridge-config-ui-x@4.41.5
+[37m[1/9/2022, 3:49:34 PM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[1/9/2022, 3:49:34 PM] [39m---
+[37m[1/9/2022, 3:49:34 PM] [39mLoading 1 platforms...
+[37m[1/9/2022, 3:49:34 PM] [39m[36m[Config][39m Initializing config platform...
+[37m[1/9/2022, 3:49:34 PM] [39m[36m[Config][39m Running in Service Mode
+Setup Payload:
+X-HM://0023ISYWYSSBZ
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-154 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[1/9/2022, 3:49:34 PM] [39mHomebridge v1.3.8 (HAP v0.9.7) (Homebridge 1471) is running on port 52353.
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+
+[37m[1/9/2022, 8:36:34 PM][0m [36m[HB Supervisor][0m OS: Linux 5.4.0-42-generic x64
+[37m[1/9/2022, 8:36:34 PM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[1/9/2022, 8:36:34 PM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[1/9/2022, 8:36:34 PM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[1/9/2022, 8:36:36 PM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.41.5 is listening on :: port 8581[0m
+[37m[1/9/2022, 8:36:36 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[1/9/2022, 8:36:36 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.3.8 with PID: 368
+[37m[1/9/2022, 8:36:36 PM] [39mLoaded config.json with 0 accessories and 1 platforms.
+[37m[1/9/2022, 8:36:36 PM] [39m---
+[37m[1/9/2022, 8:36:37 PM] [39mLoaded plugin: homebridge-dummy@0.5.0
+[37m[1/9/2022, 8:36:37 PM] [39mRegistering accessory 'homebridge-dummy.DummySwitch'
+[37m[1/9/2022, 8:36:37 PM] [39m---
+[37m[1/9/2022, 8:36:37 PM] [39m[31m====================[39m
+[37m[1/9/2022, 8:36:37 PM] [39m[31mERROR LOADING PLUGIN homebridge-tplink-hs100-lightbulbs:[39m
+[37m[1/9/2022, 8:36:37 PM] [39m[31mError [ERR_REQUIRE_ESM]: require() of ES Module /homebridge/node_modules/homebridge-tplink-hs100-lightbulbs/node_modules/tplink-lightbulb/dist/tplink-lightbulb.modern.js from /homebridge/node_modules/homebridge-tplink-hs100-lightbulbs/index.js not supported.[39m
+[31mInstead change the require of tplink-lightbulb.modern.js in /homebridge/node_modules/homebridge-tplink-hs100-lightbulbs/index.js to a dynamic import() which is available in all CommonJS modules.[39m
+[31m    at Object.<anonymous> (/homebridge/node_modules/homebridge-tplink-hs100-lightbulbs/index.js:4:14)[39m
+[31m    at Plugin.load (/usr/local/lib/node_modules/homebridge/lib/plugin.js:132:77)[39m
+[31m    at PluginManager.initializeInstalledPlugins (/usr/local/lib/node_modules/homebridge/lib/pluginManager.js:64:30)[39m
+[31m    at async Server.start (/usr/local/lib/node_modules/homebridge/lib/server.js:106:9)[39m
+[37m[1/9/2022, 8:36:37 PM] [39m[31m====================[39m
+[37m[1/9/2022, 8:36:37 PM] [39mLoaded plugin: homebridge-config-ui-x@4.41.5
+[37m[1/9/2022, 8:36:37 PM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[1/9/2022, 8:36:37 PM] [39m---
+[37m[1/9/2022, 8:36:37 PM] [39mLoading 1 platforms...
+[37m[1/9/2022, 8:36:37 PM] [39m[36m[Config][39m Initializing config platform...
+[37m[1/9/2022, 8:36:37 PM] [39m[36m[Config][39m Running in Service Mode
+Setup Payload:
+X-HM://0023ISYWYSSBZ
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-154 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[1/9/2022, 8:36:37 PM] [39mHomebridge v1.3.8 (HAP v0.9.7) (Homebridge 1471) is running on port 52353.
+[0;37m[1/9/2022, 8:39:19 PM] [0m[0;36m[Homebridge UI][0m Changes to config.json saved.
+[0;37m[1/9/2022, 10:51:25 PM] [0m[0;36m[Homebridge UI][0m Changes to config.json saved.
+[0;37m[1/9/2022, 10:51:54 PM] [0m[0;36m[Homebridge UI][0m Running Command: npm install -g homebridge@1.3.9
+[0;37m[1/9/2022, 10:54:41 PM] [0m[0;36m[Homebridge UI][0m Changes to config.json saved.
+[0;37m[1/9/2022, 10:54:41 PM] [0m[0;36m[Homebridge UI][0m Running Command: npm uninstall --save homebridge-dummy
+[0;37m[1/9/2022, 10:56:00 PM] [0m[0;36m[Homebridge UI][0m Running Command: npm uninstall --save homebridge-tplink-hs100-lightbulbs
+[0;37m[1/9/2022, 10:57:19 PM] [0m[0;36m[Homebridge UI][0m Running Command: npm install --save homebridge-tplink-smarthome@latest
+[0;37m[1/9/2022, 10:57:30 PM] [0m[0;36m[Homebridge UI][0m Changes to config.json saved.
+[0;37m[1/9/2022, 10:57:43 PM] [0m[0;36m[Homebridge UI][0m Changes to config.json saved.
+[0;37m[1/9/2022, 11:00:40 PM] [0m[0;36m[Homebridge UI][0m Changes to config.json saved.
+[0;37m[1/9/2022, 11:01:05 PM] [0m[0;36m[Homebridge UI][0m Homebridge restart request received
+[0;37m[1/9/2022, 11:01:05 PM] [0m[0;36m[Homebridge UI][0m UI / Bridge settings have not changed; only restarting Homebridge process
+[0;37m[1/9/2022, 11:01:05 PM] [0m[0;36m[Homebridge UI][0m Sending SIGTERM to Homebridge
+[37m[1/9/2022, 11:01:05 PM] [39mGot SIGTERM, shutting down Homebridge...
+[37m[1/9/2022, 11:01:10 PM][0m [36m[HB Supervisor][0m Homebridge Process Ended. Code: 143, Signal: null
+[37m[1/9/2022, 11:01:15 PM][0m [36m[HB Supervisor][0m Restarting Homebridge...
+[37m[1/9/2022, 11:01:15 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[1/9/2022, 11:01:15 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.3.9 with PID: 2169
+[37m[1/9/2022, 11:01:15 PM] [39mLoaded config.json with 0 accessories and 2 platforms.
+[37m[1/9/2022, 11:01:15 PM] [39mLoaded 0 cached accessories from cachedAccessories.
+[37m[1/9/2022, 11:01:15 PM] [39m---
+[37m[1/9/2022, 11:01:15 PM] [39mLoaded plugin: homebridge-tplink-smarthome@6.4.0
+[37m[1/9/2022, 11:01:15 PM] [39mRegistering platform 'homebridge-tplink-smarthome.TplinkSmarthome'
+[37m[1/9/2022, 11:01:15 PM] [39m---
+[37m[1/9/2022, 11:01:15 PM] [39mLoaded plugin: homebridge-config-ui-x@4.41.5
+[37m[1/9/2022, 11:01:15 PM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[1/9/2022, 11:01:15 PM] [39m---
+[37m[1/9/2022, 11:01:15 PM] [39mLoading 2 platforms...
+[37m[1/9/2022, 11:01:15 PM] [39m[36m[Config][39m Initializing config platform...
+[37m[1/9/2022, 11:01:15 PM] [39m[36m[Config][39m Running in Service Mode
+[37m[1/9/2022, 11:01:15 PM] [39m[36m[TplinkSmarthome][39m Initializing TplinkSmarthome platform...
+[37m[1/9/2022, 11:01:15 PM] [39m[36m[TplinkSmarthome][39m homebridge-tplink-smarthome v6.4.0, node v16.13.1, homebridge v1.3.9, api v2.7
+Setup Payload:
+X-HM://0023ISYWYSSBZ
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-154 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[1/9/2022, 11:01:16 PM] [39mHomebridge v1.3.9 (HAP v0.9.8) (Homebridge 1471) is running on port 52353.
+[37m[1/9/2022, 11:01:16 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4] 10.0.0.77 9999
+[37m[1/9/2022, 11:01:16 PM] [39m[36m[TplinkSmarthome][39m Adding: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4]
+[37m[1/9/2022, 11:01:16 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Chair Light] plug [800636395926020D3ECA7446F9D67FFC188B1CCD] 10.0.0.85 9999
+[37m[1/9/2022, 11:01:16 PM] [39m[36m[TplinkSmarthome][39m Adding: [Chair Light] plug [800636395926020D3ECA7446F9D67FFC188B1CCD]
+[37m[1/9/2022, 11:01:16 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Couch Light] plug [8006C3D9136178363FF80946CB49CE1D188B60EF] 10.0.0.203 9999
+[37m[1/9/2022, 11:01:16 PM] [39m[36m[TplinkSmarthome][39m Adding: [Couch Light] plug [8006C3D9136178363FF80946CB49CE1D188B60EF]
+[0;37m[1/9/2022, 11:13:33 PM] [0m[0;36m[Homebridge UI][0m Changes to config.json saved.
+[0;37m[1/9/2022, 11:13:44 PM] [0m[0;36m[Homebridge UI][0m Homebridge restart request received
+[0;37m[1/9/2022, 11:13:45 PM] [0m[0;36m[Homebridge UI][0m No restart command defined, killing process...
+[37m[1/9/2022, 11:13:45 PM][0m [36m[HB Supervisor][0m Stopping services...
+[37m[1/9/2022, 11:13:45 PM] [39mGot SIGTERM, shutting down Homebridge...
+[37m[1/9/2022, 11:13:50 PM][0m [36m[HB Supervisor][0m Homebridge Process Ended. Code: 143, Signal: null
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+
+[37m[1/9/2022, 11:13:54 PM][0m [36m[HB Supervisor][0m OS: Linux 5.4.0-42-generic x64
+[37m[1/9/2022, 11:13:54 PM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[1/9/2022, 11:13:54 PM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[1/9/2022, 11:13:54 PM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[1/9/2022, 11:13:56 PM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.41.5 is listening on :: port 8581[0m
+[37m[1/9/2022, 11:13:56 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[1/9/2022, 11:13:56 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.3.9 with PID: 4621
+[37m[1/9/2022, 11:13:56 PM] [39mLoaded config.json with 0 accessories and 2 platforms.
+[37m[1/9/2022, 11:13:56 PM] [39mLoaded 3 cached accessories from cachedAccessories.
+[37m[1/9/2022, 11:13:56 PM] [39m---
+[37m[1/9/2022, 11:13:57 PM] [39mLoaded plugin: homebridge-tplink-smarthome@6.4.0
+[37m[1/9/2022, 11:13:57 PM] [39mRegistering platform 'homebridge-tplink-smarthome.TplinkSmarthome'
+[37m[1/9/2022, 11:13:57 PM] [39m---
+[37m[1/9/2022, 11:13:57 PM] [39mLoaded plugin: homebridge-config-ui-x@4.41.5
+[37m[1/9/2022, 11:13:57 PM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[1/9/2022, 11:13:57 PM] [39m---
+[37m[1/9/2022, 11:13:57 PM] [39mLoading 2 platforms...
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[Config][39m Initializing config platform...
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[Config][39m Running in Service Mode
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[TplinkSmarthome][39m Initializing TplinkSmarthome platform...
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[TplinkSmarthome][39m homebridge-tplink-smarthome v6.4.0, node v16.13.1, homebridge v1.3.9, api v2.7
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Kitchen light] UUID: 2afe7f38-ede4-48e8-ad08-d660babb9743 deviceId: 800666976691733F83C06319DB823A291D4E6BD4 
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Chair Light] UUID: 73d8702a-583d-4edd-8349-c63499a09b5c deviceId: 800636395926020D3ECA7446F9D67FFC188B1CCD 
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Couch Light] UUID: 09fbb39c-92d0-44f0-90e5-bd1598c3bbab deviceId: 8006C3D9136178363FF80946CB49CE1D188B60EF 
+Setup Payload:
+X-HM://0023ISYWY2X1E
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-154 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[1/9/2022, 11:13:57 PM] [39mHomebridge v1.3.9 (HAP v0.9.8) (Homebridge 1471) is running on port 52353.
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4] 10.0.0.77 9999
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[TplinkSmarthome][39m Adding: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4]
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Chair Light] plug [800636395926020D3ECA7446F9D67FFC188B1CCD] 10.0.0.85 9999
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[TplinkSmarthome][39m Adding: [Chair Light] plug [800636395926020D3ECA7446F9D67FFC188B1CCD]
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Couch Light] plug [8006C3D9136178363FF80946CB49CE1D188B60EF] 10.0.0.203 9999
+[37m[1/9/2022, 11:13:57 PM] [39m[36m[TplinkSmarthome][39m Adding: [Couch Light] plug [8006C3D9136178363FF80946CB49CE1D188B60EF]
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+
+[37m[1/9/2022, 11:28:13 PM][0m [36m[HB Supervisor][0m OS: Linux 5.4.0-42-generic x64
+[37m[1/9/2022, 11:28:13 PM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[1/9/2022, 11:28:13 PM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[1/9/2022, 11:28:13 PM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[1/9/2022, 11:28:14 PM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.41.5 is listening on :: port 8581[0m
+[37m[1/9/2022, 11:28:14 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[1/9/2022, 11:28:15 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.3.9 with PID: 369
+[37m[1/9/2022, 11:28:15 PM] [39mLoaded config.json with 0 accessories and 2 platforms.
+[37m[1/9/2022, 11:28:15 PM] [39mLoaded 3 cached accessories from cachedAccessories.
+[37m[1/9/2022, 11:28:15 PM] [39m---
+[37m[1/9/2022, 11:28:15 PM] [39mLoaded plugin: homebridge-tplink-smarthome@6.4.0
+[37m[1/9/2022, 11:28:15 PM] [39mRegistering platform 'homebridge-tplink-smarthome.TplinkSmarthome'
+[37m[1/9/2022, 11:28:15 PM] [39m---
+[37m[1/9/2022, 11:28:15 PM] [39mLoaded plugin: homebridge-config-ui-x@4.41.5
+[37m[1/9/2022, 11:28:15 PM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[1/9/2022, 11:28:15 PM] [39m---
+[37m[1/9/2022, 11:28:15 PM] [39mLoading 2 platforms...
+[37m[1/9/2022, 11:28:15 PM] [39m[36m[Config][39m Initializing config platform...
+[37m[1/9/2022, 11:28:15 PM] [39m[36m[Config][39m Running in Service Mode
+[37m[1/9/2022, 11:28:15 PM] [39m[36m[TplinkSmarthome][39m Initializing TplinkSmarthome platform...
+[37m[1/9/2022, 11:28:15 PM] [39m[36m[TplinkSmarthome][39m homebridge-tplink-smarthome v6.4.0, node v16.13.1, homebridge v1.3.9, api v2.7
+[37m[1/9/2022, 11:28:15 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Kitchen light] UUID: 2afe7f38-ede4-48e8-ad08-d660babb9743 deviceId: 800666976691733F83C06319DB823A291D4E6BD4 
+[37m[1/9/2022, 11:28:15 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Chair Light] UUID: 73d8702a-583d-4edd-8349-c63499a09b5c deviceId: 800636395926020D3ECA7446F9D67FFC188B1CCD 
+[37m[1/9/2022, 11:28:15 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Couch Light] UUID: 09fbb39c-92d0-44f0-90e5-bd1598c3bbab deviceId: 8006C3D9136178363FF80946CB49CE1D188B60EF 
+Setup Payload:
+X-HM://0023ISYWY2X1E
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-154 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[1/9/2022, 11:28:15 PM] [39mHomebridge v1.3.9 (HAP v0.9.8) (Homebridge 1471) is running on port 52353.
+[37m[1/9/2022, 11:28:16 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4] 10.0.0.77 9999
+[37m[1/9/2022, 11:28:16 PM] [39m[36m[TplinkSmarthome][39m Adding: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4]
+[37m[1/9/2022, 11:28:16 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Chair Light] plug [800636395926020D3ECA7446F9D67FFC188B1CCD] 10.0.0.85 9999
+[37m[1/9/2022, 11:28:16 PM] [39m[36m[TplinkSmarthome][39m Adding: [Chair Light] plug [800636395926020D3ECA7446F9D67FFC188B1CCD]
+[37m[1/9/2022, 11:28:16 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Couch Light] plug [8006C3D9136178363FF80946CB49CE1D188B60EF] 10.0.0.203 9999
+[37m[1/9/2022, 11:28:16 PM] [39m[36m[TplinkSmarthome][39m Adding: [Couch Light] plug [8006C3D9136178363FF80946CB49CE1D188B60EF]
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+
+[37m[1/9/2022, 11:30:14 PM][0m [36m[HB Supervisor][0m OS: Linux 5.4.0-42-generic x64
+[37m[1/9/2022, 11:30:14 PM][0m [36m[HB Supervisor][0m Node.js v16.13.1 /usr/local/bin/node
+[37m[1/9/2022, 11:30:14 PM][0m [36m[HB Supervisor][0m Homebridge Path: /usr/local/lib/node_modules/homebridge/bin/homebridge
+[37m[1/9/2022, 11:30:14 PM][0m [36m[HB Supervisor][0m UI Path: /usr/local/lib/node_modules/homebridge-config-ui-x/dist/bin/standalone.js
+[0;37m[1/9/2022, 11:30:15 PM] [0m[0;36m[Homebridge UI][0m [0;33mHomebridge Config UI X v4.41.5 is listening on :: port 8581[0m
+[37m[1/9/2022, 11:30:16 PM][0m [36m[HB Supervisor][0m Starting Homebridge with extra flags: -I -P /homebridge/node_modules
+[37m[1/9/2022, 11:30:16 PM][0m [36m[HB Supervisor][0m Started Homebridge v1.3.9 with PID: 369
+[37m[1/9/2022, 11:30:16 PM] [39mLoaded config.json with 0 accessories and 2 platforms.
+[37m[1/9/2022, 11:30:16 PM] [39mLoaded 3 cached accessories from cachedAccessories.
+[37m[1/9/2022, 11:30:16 PM] [39m---
+[37m[1/9/2022, 11:30:16 PM] [39mLoaded plugin: homebridge-tplink-smarthome@6.4.0
+[37m[1/9/2022, 11:30:16 PM] [39mRegistering platform 'homebridge-tplink-smarthome.TplinkSmarthome'
+[37m[1/9/2022, 11:30:16 PM] [39m---
+[37m[1/9/2022, 11:30:16 PM] [39mLoaded plugin: homebridge-config-ui-x@4.41.5
+[37m[1/9/2022, 11:30:16 PM] [39mRegistering platform 'homebridge-config-ui-x.config'
+[37m[1/9/2022, 11:30:16 PM] [39m---
+[37m[1/9/2022, 11:30:16 PM] [39mLoading 2 platforms...
+[37m[1/9/2022, 11:30:16 PM] [39m[36m[Config][39m Initializing config platform...
+[37m[1/9/2022, 11:30:16 PM] [39m[36m[Config][39m Running in Service Mode
+[37m[1/9/2022, 11:30:16 PM] [39m[36m[TplinkSmarthome][39m Initializing TplinkSmarthome platform...
+[37m[1/9/2022, 11:30:16 PM] [39m[36m[TplinkSmarthome][39m homebridge-tplink-smarthome v6.4.0, node v16.13.1, homebridge v1.3.9, api v2.7
+[37m[1/9/2022, 11:30:16 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Kitchen light] UUID: 2afe7f38-ede4-48e8-ad08-d660babb9743 deviceId: 800666976691733F83C06319DB823A291D4E6BD4 
+[37m[1/9/2022, 11:30:16 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Chair Light] UUID: 73d8702a-583d-4edd-8349-c63499a09b5c deviceId: 800636395926020D3ECA7446F9D67FFC188B1CCD 
+[37m[1/9/2022, 11:30:16 PM] [39m[36m[TplinkSmarthome][39m Configuring cached accessory: [Couch Light] UUID: 09fbb39c-92d0-44f0-90e5-bd1598c3bbab deviceId: 8006C3D9136178363FF80946CB49CE1D188B60EF 
+Setup Payload:
+X-HM://0023ISYWY2X1E
+Enter this code with your HomeKit app on your iOS device to pair with Homebridge:
+[30m[47m                       [49m[39m
+[30m[47m    ┌────────────┐     [49m[39m
+[30m[47m    │ 031-45-154 │     [49m[39m
+[30m[47m    └────────────┘     [49m[39m
+[30m[47m                       [49m[39m
+[37m[1/9/2022, 11:30:16 PM] [39mHomebridge v1.3.9 (HAP v0.9.8) (Homebridge 1471) is running on port 52353.
+[37m[1/9/2022, 11:30:17 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4] 10.0.0.77 9999
+[37m[1/9/2022, 11:30:17 PM] [39m[36m[TplinkSmarthome][39m Adding: [Kitchen light] plug [800666976691733F83C06319DB823A291D4E6BD4]
+[37m[1/9/2022, 11:30:17 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Couch Light] plug [8006C3D9136178363FF80946CB49CE1D188B60EF] 10.0.0.203 9999
+[37m[1/9/2022, 11:30:17 PM] [39m[36m[TplinkSmarthome][39m Adding: [Couch Light] plug [8006C3D9136178363FF80946CB49CE1D188B60EF]
+[37m[1/9/2022, 11:30:17 PM] [39m[36m[TplinkSmarthome][39m New Device Online: [Chair Light] plug [800636395926020D3ECA7446F9D67FFC188B1CCD] 10.0.0.85 9999
+[37m[1/9/2022, 11:30:17 PM] [39m[36m[TplinkSmarthome][39m Adding: [Chair Light] plug [800636395926020D3ECA7446F9D67FFC188B1CCD]
+
+
+    [1;37mThank you for using the [4;36moznu/homebridge[0m [1;37mdocker image![0m
+
+  If you find this project useful please [1;33mSTAR[0m it on GitHub:
+
+         [4;37mhttps://github.com/oznu/docker-homebridge[0m
+
+                Or donate to the project:
+
+            [4;37mhttps://github.com/sponsors/oznu[0m
+                  [4;37mhttps://paypal.me/oznu[0m
+

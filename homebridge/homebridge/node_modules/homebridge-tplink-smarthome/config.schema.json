@@ -1,0 +1,211 @@
+{
+  "pluginAlias": "TplinkSmarthome",
+  "pluginType": "platform",
+  "singular": true,
+  "headerDisplay": "TP-Link Smart Home Plugin.<p>Most users do not require configuration and can just click \"Save\" to get started. See [README](https://github.com/plasticrake/homebridge-tplink-smarthome/blob/master/README.md) for more information.</p>",
+  "footerDisplay": "",
+  "schema": {
+    "type": "object",
+    "required": ["name"],
+    "properties": {
+      "name": {
+        "title": "Name",
+        "type": "string",
+        "default": "TplinkSmarthome",
+        "minLength": 1
+      },
+      "addCustomCharacteristics": {
+        "title": "Adds energy monitoring characteristics viewable in Eve app",
+        "description": "<b>Plug</b>: Amperes, KilowattHours, VoltAmperes, Volts, Watts.<br/><b>Bulb</b>: Watts",
+        "type": "boolean",
+        "default": true
+      },
+      "inUseThreshold": {
+        "title": "In Use Threshold (Watts)",
+        "type": "number",
+        "description": "(Watts) For plugs that support energy monitoring (e.g. HS110), min power draw for <b>OutletInUse</b>",
+        "placeholder": "0"
+      },
+      "switchModels": {
+        "type": "array",
+        "description": "Matching models are created in HomeKit as a Switch instead of an Outlet. This is intended for wall switches. Default: ['HS200', 'HS210']",
+        "items": {
+          "type": "string"
+        }
+      },
+      "discoveryPort": {
+        "title": "Port",
+        "type": "number",
+        "description": "Port to bind UDP socket for discovery. If port is not specified or is 0, the operating system will attempt to bind to a random port. Default: 0",
+        "placeholder": "0"
+      },
+      "broadcast": {
+        "title": "Broadcast Address",
+        "type": "string",
+        "description": "Broadcast Address. If discovery is not working tweak to match your subnet, eg: 192.168.0.255",
+        "placeholder": "255.255.255.255",
+        "format": "ipv4"
+      },
+      "pollingInterval": {
+        "title": "Polling Interval (seconds)",
+        "type": "integer",
+        "description": "How often to check device status in the background (seconds)",
+        "placeholder": "10"
+      },
+      "deviceTypes": {
+        "title": "Device Types",
+        "type": "array",
+        "description": "Choose which types of devices this plugin should discover",
+        "default": ["plug", "bulb"],
+        "titleMap": [
+          { "name": "Plugs", "value": "plug" },
+          { "name": "Bulbs", "value": "bulb" }
+        ],
+        "items": {
+          "type": "string",
+          "enum": ["plug", "bulb"]
+        }
+      },
+      "macAddresses": {
+        "title": "Allow MAC Addresses",
+        "description": "Allow-list of mac addresses to include. If specified will ignore other devices. Supports glob-style patterns",
+        "type": "array",
+        "items": {
+          "title": "Mac Address",
+          "type": "string"
+        }
+      },
+      "excludeMacAddresses": {
+        "title": "Exclude MAC Addresses",
+        "description": "Deny-list of mac addresses to exclude. Supports glob-style patterns",
+        "type": "array",
+        "items": {
+          "title": "Mac Address",
+          "type": "string"
+        }
+      },
+      "devices": {
+        "title": "Manual List Of Devices",
+        "type": "array",
+        "items": {
+          "title": "Device",
+          "type": "object",
+          "required": ["host"],
+          "properties": {
+            "host": {
+              "title": "Host",
+              "type": "string"
+            },
+            "port": {
+              "title": "Port",
+              "type": "string",
+              "placeholder": "9999"
+            }
+          }
+        }
+      },
+      "timeout": {
+        "title": "Timeout (seconds)",
+        "type": "integer",
+        "description": "(seconds) Communication Timeout",
+        "placeholder": "15"
+      },
+      "transport": {
+        "type": "string",
+        "description": "Use TCP or UDP for device communication. Discovery will always use UDP. Default: TCP",
+        "placeholder": "tcp",
+        "enum": ["tcp", "udp"],
+        "titleMap": [
+          { "name": "TCP", "value": "tcp" },
+          { "name": "UDP", "value": "udp" }
+        ]
+      },
+      "waitTimeUpdate": {
+        "title": "Wait Time Update (ms)",
+        "type": "integer",
+        "description": "The time (ms) to wait to combine similar commands for a device before sending a command to a device. Default: 100.",
+        "placeholder": "100"
+      }
+    }
+  },
+  "layout": [
+    "name",
+    {
+      "type": "fieldset",
+      "title": "HomeKit (Optional)",
+      "description": "Customize how devices are exposed in HomeKit",
+      "expandable": true,
+      "items": [
+        "addCustomCharacteristics",
+        "inUseThreshold",
+        {
+          "key": "switchModels",
+          "type": "array",
+          "buttonText": "Add Switch Model",
+          "items": {
+            "title": "Model",
+            "type": "string",
+            "required": true
+          }
+        }
+      ]
+    },
+    {
+      "type": "fieldset",
+      "title": "Device Discovery (Optional)",
+      "description": "Customize device discovery",
+      "expandable": true,
+      "items": [
+        "broadcast",
+        "pollingInterval",
+        "deviceTypes",
+        "discoveryPort",
+        {
+          "key": "macAddresses",
+          "type": "array",
+          "buttonText": "Add MAC Address",
+          "items": {
+            "title": "Allow MAC Address",
+            "type": "string",
+            "required": true
+          }
+        },
+        {
+          "key": "excludeMacAddresses",
+          "type": "array",
+          "buttonText": "Add MAC Address",
+          "items": {
+            "title": "Exclude MAC Address",
+            "type": "string",
+            "required": true
+          }
+        },
+        {
+          "type": "fieldset",
+          "title": "Manual Discovery",
+          "description": "If automatic discovery is not working, try this.",
+          "expandable": true,
+          "items": [
+            {
+              "key": "devices",
+              "type": "array",
+              "buttonText": "Add Device",
+              "items": ["devices[].host", "devices[].port"]
+            },
+            {
+              "type": "help",
+              "helpvalue": "Before resorting to manually specifying devices. Try setting the broadcast address and check your router/switch/firewall configuration. You must assign static IP addresses to your devices to use this configuration."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fieldset",
+      "title": "Advanced Settings (Optional)",
+      "description": "Don't change these, unless you understand what you're doing.",
+      "expandable": true,
+      "items": ["timeout", "waitTimeUpdate", "transport"]
+    }
+  ]
+}

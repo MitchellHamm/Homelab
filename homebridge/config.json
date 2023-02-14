@@ -3,7 +3,17 @@
         "name": "Homebridge 1471",
         "username": "0E:B4:B9:AC:A6:2D",
         "port": 52353,
-        "pin": "031-45-154"
+        "pin": "031-45-154",
+        "advertiser": "avahi",
+        "bind": [
+            "enp6s0",
+            "br-73bf09cbcfad",
+            "veth3a876c0",
+            "veth52354a0",
+            "vethda88445",
+            "veth5ede119",
+            "veth6ac859e"
+        ]
     },
     "accessories": [],
     "platforms": [

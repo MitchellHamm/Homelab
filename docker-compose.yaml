@@ -26,23 +26,6 @@ services:
     volumes:
       - /mnt/md0/plex/cfg:/config
       - /mnt/md0/plex:/data
-  pihole:
-    container_name: pihole
-    image: pihole/pihole:latest
-    ports:
-      - "53:53/tcp"
-      - "53:53/udp"
-      - "67:67/udp"
-      - "80:80/tcp"
-    environment:
-      TZ: 'America/Chicago'
-      # WEBPASSWORD: 'set a secure password here or it will be random'
-    volumes:
-      - './etc-pihole/:/etc/pihole/'
-      - './etc-dnsmasq.d/:/etc/dnsmasq.d/'
-    cap_add:
-      - NET_ADMIN
-    restart: unless-stopped
   transmission:
     image: linuxserver/transmission
     container_name: transmission
@@ -81,6 +64,7 @@ services:
     volumes:
       - ./sonarr/config:/config
       - /mnt/md0/plex/tv:/mnt/media
+      - /mnt/md0/media/torrents:/mnt/media/torrents
     ports:
       - 8989:8989
     restart: unless-stopped
@@ -94,6 +78,13 @@ services:
     volumes:
       - ./radarr/config:/config
       - /mnt/md0/plex/movies:/mnt/media
+      - /mnt/md0/media/torrents:/mnt/media/torrents
     ports:
       - 7878:7878
     restart: unless-stopped
+  nginx:
+    image: nginx:latest
+    ports:
+     - "80:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf

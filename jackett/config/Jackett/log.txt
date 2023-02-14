@@ -13157,3 +13157,766 @@
 2023-02-14 18:23:29.5687 Info Torznab search in RARBG => Found 100 releases 
 2023-02-14 18:23:29.6155 Info Torznab search in 1337x => Found 20 releases 
 2023-02-14 18:23:32.6165 Info Torznab search in kickasstorrents.to => Found 46 releases 
+2023-02-14 19:09:10.0739 Info Starting Jackett v0.20.779 
+2023-02-14 19:09:10.7903 Info Environment version: 6.0.3 (/app/Jackett/) 
+2023-02-14 19:09:10.7911 Info OS version: Unix 5.15.0.48 (64bit OS) (64bit process) 
+2023-02-14 19:09:10.7911 Info Jackett variant: CoreLinuxAmdx64 
+2023-02-14 19:09:10.7911 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2023-02-14 19:09:10.7911 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2023-02-14 19:09:10.7911 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2023-02-14 19:09:10.7911 Info App config/log directory: /config/Jackett 
+2023-02-14 19:09:10.7911 Info Using proxy: Disabled 
+2023-02-14 19:09:10.7947 Info Using FlareSolverr: No 
+2023-02-14 19:09:10.7947 Error Your version of Jackett v0.20.779 is very old. Multiple indexers are likely to fail when using an old version. Update to the latest version of Jackett. 
+2023-02-14 19:09:10.7947 Info Using HTTP Client: HttpWebClient2 
+2023-02-14 19:09:10.8027 Info Loading Native indexers ... 
+2023-02-14 19:09:10.9786 Info Loaded 83 Native indexers: abnormal, alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, greatposterwall, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, morethantv, myanonamouse, ncore, nebulance, norbits, oppaitime, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentmafya, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho 
+2023-02-14 19:09:10.9829 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2023-02-14 19:09:12.6424 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, dragonworldreloaded, blutopia-api, jme-reunit3d, backups, gktorrent, deildu, movietorrentz, acgrip, hdbitscom, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, pornotor, ilcorsaronero, ccfbits, trezzor, piratadigital, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, elitetorrent-biz, crackingpatching, insanetracker, vizuk, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, portugas, desitorrents-api, sugoimusic, nbtorrents, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, twilightszoom, torlook, hd4fans, 2fast4you, kisssub, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, cryptichaven, underverse, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, omgwtftrackr, moviesite, aniRena, theaudioscene, wihd, aftershock, peerjunkies, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, hamsterstudio, crazyhd, mononokebt, libranet, xbit, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, gfxpeers, catorrent, torrentslocal, prostylex, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, p2pelite, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, bluesbrothers, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, hidden-palace, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, hdme, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, iv-torrents, torrentfunk, kickasstorrents-to, classix, nitro, bitded, 3dtorrents, hdmonkey, bitbr, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, kinonavse100, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, netlab, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, torrentdb, pornbits, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, hdai, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, ibit, hdspain, digitalcore, ebookparadijs, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, thehorrorcharnel, peeratiko, bithorlo, theshinning, ehentai, hdturk, haitang, animeitalia, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, ilcorsaroverde, 24rolika, milkie, opensharing, nntt, torrentgalaxy, greekdiamond, pwtorrents, microbit, moviesdvdr, tjupt, mediamaatjes, pttime, torrentlt, coastalcrew, brasiltracker, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, zooqle, limetorrentsclone, btschool, rudub, houseofdevil, scenepalace, limetorrents, themixingbowl, hqsource, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, netcosmo, whiteangel, tlfbits, u2, trancetraffic, oxtorrent, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, torrentsurf, ilcorsaroblu, spidertk, hellastz, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, anaschcc, the-devils-lounge, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, purovicio, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, fouducinema, newpct-me, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, trackeros-api, torrentleech-pl, turktracker, sdbits, speedmasterhd, ptfiles, hdcenter, badasstorrents, btetree, chilebt, torrentland-api, torrenting, torrentdownloads, torrentsir, pornolive, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, soundpark, nethd, pthome, datatalli, redbits-api, immortuos, alleenretail, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, hdcity, film-paleis, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, swarmazon, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, underversel, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, torrentparadise, mousebits, fanoin, btdigg, selezen, bitcityreloaded, animeclipse, 52pt, wdt, aidoruonline, esharenet, puurhollands, newstudio 
+2023-02-14 19:09:12.6427 Info Loaded 579 indexers in total 
+2023-02-14 19:09:12.6427 Info Adding aggregate indexer ('all' indexer) ... 
+2023-02-14 19:09:12.6504 Info Adding filter indexer ('type:public' indexer) ... 
+2023-02-14 19:09:12.6507 Info Adding filter indexer ('type:private' indexer) ... 
+2023-02-14 19:09:12.6507 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2023-02-14 19:09:12.8178 Info Jackett startup finished in 4.166 s 
+2023-02-14 19:09:35.5285 Warn Some of the categories provided are unsupported in 1337x: 2020,2050 
+2023-02-14 19:09:35.5285 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 19:09:35.5285 Warn Some of the categories provided are unsupported in RARBG: 2010,2020 
+2023-02-14 19:09:35.5285 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 19:09:35.6578 Warn Some of the categories provided are unsupported in ExtraTorrent.st: 2030,2050 
+2023-02-14 19:09:35.7256 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2023-02-14 19:09:36.7143 Info Torznab search in ExtraTorrent.st => Found 10 releases 
+2023-02-14 19:09:37.1134 Info Torznab search in The Pirate Bay => Found 2 releases 
+2023-02-14 19:09:37.3387 Info Torznab search in kickasstorrents.to => Found 9 releases 
+2023-02-14 19:09:37.3798 Info Torznab search in kickasstorrents.to => Found 9 releases 
+2023-02-14 19:09:38.9730 Info Torznab search in 1337x => Found 20 releases 
+2023-02-14 19:09:41.1988 Warn Request to RARBG failed with status 520. Retrying in 0.5s... (Attempt 1 of 2). 
+2023-02-14 19:09:43.8209 Warn Request to RARBG failed with status 520. Retrying in 1s... (Attempt 2 of 2). 
+2023-02-14 19:09:46.4635 Error Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398 Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398
+2023-02-14 20:09:12.6633 Info Checking for updates... Jackett variant: CoreLinuxAmdx64 
+2023-02-14 20:09:12.9632 Info New release found. Current version: v0.20.779 New version: v0.20.3082 
+2023-02-14 20:09:12.9632 Info Downloading release v0.20.3082 It could take a while... 
+2023-02-14 20:09:16.3260 Info Starting updater: /tmp/JackettUpdate-v0.20.3082-638120021543480526/Jackett/JackettUpdater --Path "/app/Jackett" --Type "Console" --Args " --NoRestart" --KillPids "324" --NoRestart 
+2023-02-14 20:09:16.3300 Info Updater started process id: 380 
+2023-02-14 20:09:18.7737 Info Starting Jackett v0.20.3082 
+2023-02-14 20:09:19.3851 Info Environment version: 6.0.13 (/app/Jackett/) 
+2023-02-14 20:09:19.3851 Info OS version: Unix 5.15.0.48 (64bit OS) (64bit process) 
+2023-02-14 20:09:19.3851 Info Jackett variant: CoreLinuxAmdx64 
+2023-02-14 20:09:19.3851 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2023-02-14 20:09:19.3868 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2023-02-14 20:09:19.3868 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2023-02-14 20:09:19.3868 Info App config/log directory: /config/Jackett 
+2023-02-14 20:09:19.3868 Info Using proxy: Disabled 
+2023-02-14 20:09:19.3868 Info Using FlareSolverr: No 
+2023-02-14 20:09:19.3868 Info Using HTTP Client: HttpWebClient2 
+2023-02-14 20:09:19.3952 Info Loading Native indexers ... 
+2023-02-14 20:09:19.5604 Info Loaded 74 Native indexers: alpharatio, anidex, anidub, animebytes, animetorrents, aro, avistaz, bakabt, beyond-hd-api, bithdtv, bjshare, brasiltracker, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, gazellegames, gazellegamesapi, greatposterwall, hdbitsapi, hdspace, hdtorrents, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, myanonamouse, ncore, nebulanceapi, norbits, orpheus, partis, passthepopcorn, piratethenet, pixelhd, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentheaven, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho, morethantv-api 
+2023-02-14 20:09:19.5639 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2023-02-14 20:09:21.0591 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, blutopia-api, backups, gktorrent, deildu, movietorrentz, acgrip, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, ilcorsaronero, ccfbits, trezzor, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, crackingpatching, insanetracker, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, desitorrents-api, sugoimusic, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, hd4fans, 2fast4you, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, moviesite, aniRena, wihd, aftershock, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, crazyhd, libranet, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, catorrent, torrentslocal, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, torrentfunk, kickasstorrents-to, classix, bitded, 3dtorrents, hdmonkey, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, digitalcore, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, peeratiko, bithorlo, ehentai, hdturk, haitang, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, milkie, nntt, torrentgalaxy, greekdiamond, pwtorrents, moviesdvdr, tjupt, pttime, torrentlt, coastalcrew, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, limetorrentsclone, btschool, rudub, houseofdevil, limetorrents, themixingbowl, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, whiteangel, tlfbits, u2, trancetraffic, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, ilcorsaroblu, spidertk, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, torrentleech-pl, sdbits, speedmasterhd, ptfiles, badasstorrents, btetree, chilebt, torrenting, torrentdownloads, torrentsir, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, nethd, pthome, datatalli, redbits-api, immortuos, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, mousebits, fanoin, btdigg, selezen, 52pt, aidoruonline, esharenet, puurhollands, newstudio, carpt, nicept, bulltorrent, torrent911, ebookbay, xtorrenty, torrentcore, file-tracker, dodder, mazepa, xtremebytes, swarmazon-api, jme-reunit3d-api, ihdbits, hqmusic, shanaproject, abnormal, hdmayi, pignetwork, icc2022, bitofvalor, world-of-tomorrow, unleashthecartoons, anthelion-api, thenewfun, pixelcove2fa, traht, hellashut, devil-torrents, torrentz2nz, kufirc, fluxzone, thedarkcommunity, cloudtorrents, ptchina, lst, satclubbing, cpasbiensi, theshinning-api, asiandvdclub, hd-unit3d-api, gainbound, locadora, theoldschool-api, oldtoonsworld, fuzer, hdgalaktik, bitnova, knaben, seedoff, miobt, tmghub, hhanclub, les-cinephiles, joyhd, btmet, electro-torrent, mojblink, animetracker, portugas-api, 2xfree, hdfans, vtorrent, audiences, acervos, polishtracker-api, gimmepeers, tornado, torrentland, zmpt, hebits, dreamtracker, sharkpt 
+2023-02-14 20:09:21.0591 Info Loaded 570 indexers in total 
+2023-02-14 20:09:21.0591 Info Adding aggregate indexer ('all' indexer) ... 
+2023-02-14 20:09:21.0671 Info Adding filter indexer ('type:public' indexer) ... 
+2023-02-14 20:09:21.0671 Info Adding filter indexer ('type:private' indexer) ... 
+2023-02-14 20:09:21.0671 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2023-02-14 20:09:21.0722 Info Deleting JackettUpdate temp files from /tmp/JackettUpdate-v0.20.3082-638120021543480526 
+2023-02-14 20:09:21.2925 Info Jackett startup finished in 3.810 s 
+2023-02-14 20:10:06.5208 Warn Some of the categories provided are unsupported in RARBG: 2010,2020 
+2023-02-14 20:10:06.5208 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:10:06.5208 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2023-02-14 20:10:06.6335 Warn Some of the categories provided are unsupported in ExtraTorrent.st: 2030,2050 
+2023-02-14 20:10:06.7107 Warn Some of the categories provided are unsupported in 1337x: 2020,2050 
+2023-02-14 20:10:06.8138 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:10:07.7688 Info Torznab search in ExtraTorrent.st => Found 10 releases 
+2023-02-14 20:10:08.4953 Info Torznab search in The Pirate Bay => Found 2 releases 
+2023-02-14 20:10:12.2881 Info Torznab search in RARBG => Found 100 releases 
+2023-02-14 20:10:12.3277 Info Torznab search in 1337x => Found 20 releases 
+2023-02-14 20:10:15.3271 Info Torznab search in kickasstorrents.to => Found 9 releases 
+2023-02-14 20:10:15.3271 Info Torznab search in kickasstorrents.to => Found 9 releases 
+2023-02-14 20:10:33.3534 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2023-02-14 20:10:33.4050 Error Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 219
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 522
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1422
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 404
+2023-02-14 20:10:33.5137 Info Torznab search in RARBG => Found 5 releases 
+2023-02-14 20:10:34.4343 Info Torznab search in EZTV for Real Housewives of Potomac S07E04 => Found 3 releases 
+2023-02-14 20:10:34.6003 Info Torznab search in The Pirate Bay for Real Housewives of Potomac S07E04 => Found 3 releases 
+2023-02-14 20:10:34.6765 Info Torznab search in LimeTorrents for Real Housewives of Potomac S07E04 => Found 6 releases 
+2023-02-14 20:10:38.1930 Info Torznab search in 1337x for The Real Housewives of Potomac S07E04 => Found 3 releases 
+2023-02-14 20:10:41.8299 Info Torznab search in kickasstorrents.to for Real Housewives of Potomac S07E04 => Found 3 releases 
+2023-02-14 20:11:29.3362 Info Torznab search in EZTV for Real Housewives of Potomac S07E04 => Found 3 releases (from cache) 
+2023-02-14 20:11:29.3362 Info Torznab search in RARBG => Found 5 releases (from cache) 
+2023-02-14 20:11:29.3362 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2023-02-14 20:11:29.3362 Info Torznab search in The Pirate Bay for Real Housewives of Potomac S07E04 => Found 3 releases (from cache) 
+2023-02-14 20:11:29.3406 Info Torznab search in kickasstorrents.to for Real Housewives of Potomac S07E04 => Found 3 releases (from cache) 
+2023-02-14 20:11:29.3406 Info Torznab search in LimeTorrents for Real Housewives of Potomac S07E04 => Found 6 releases (from cache) 
+2023-02-14 20:11:29.3406 Info Torznab search in 1337x for The Real Housewives of Potomac S07E04 => Found 3 releases (from cache) 
+2023-02-14 20:11:29.4903 Error Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 219
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 526
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1422
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 404
+2023-02-14 20:11:37.8029 Info Torznab search in EZTV for Real Housewives of Potomac S07E04 => Found 3 releases (from cache) 
+2023-02-14 20:11:37.8029 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2023-02-14 20:11:37.8029 Info Torznab search in RARBG => Found 5 releases (from cache) 
+2023-02-14 20:11:37.8029 Info Torznab search in 1337x for The Real Housewives of Potomac S07E04 => Found 3 releases (from cache) 
+2023-02-14 20:11:37.8029 Info Torznab search in kickasstorrents.to for Real Housewives of Potomac S07E04 => Found 3 releases (from cache) 
+2023-02-14 20:11:37.8072 Info Torznab search in LimeTorrents for Real Housewives of Potomac S07E04 => Found 6 releases (from cache) 
+2023-02-14 20:11:37.8072 Info Torznab search in The Pirate Bay for Real Housewives of Potomac S07E04 => Found 3 releases (from cache) 
+2023-02-14 20:11:37.9517 Error Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 219
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 526
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1422
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 440
+2023-02-14 20:16:59.0182 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2023-02-14 20:16:59.0182 Info Torznab search in The Pirate Bay for Real Housewives of Potomac S07E04 => Found 3 releases (from cache) 
+2023-02-14 20:16:59.0206 Info Torznab search in 1337x for The Real Housewives of Potomac S07E04 => Found 3 releases (from cache) 
+2023-02-14 20:16:59.0206 Info Torznab search in RARBG => Found 5 releases (from cache) 
+2023-02-14 20:16:59.0228 Info Torznab search in kickasstorrents.to for Real Housewives of Potomac S07E04 => Found 3 releases (from cache) 
+2023-02-14 20:16:59.0228 Info Torznab search in LimeTorrents for Real Housewives of Potomac S07E04 => Found 6 releases (from cache) 
+2023-02-14 20:16:59.0228 Info Torznab search in EZTV for Real Housewives of Potomac S07E04 => Found 3 releases (from cache) 
+2023-02-14 20:16:59.2409 Error Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 219
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 526
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1422
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 324
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 324
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 695
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 440
+2023-02-14 20:22:02.5114 Info Starting Jackett v0.20.779 
+2023-02-14 20:22:03.1114 Info Environment version: 6.0.3 (/app/Jackett/) 
+2023-02-14 20:22:03.1114 Info OS version: Unix 5.15.0.48 (64bit OS) (64bit process) 
+2023-02-14 20:22:03.1114 Info Jackett variant: CoreLinuxAmdx64 
+2023-02-14 20:22:03.1114 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2023-02-14 20:22:03.1114 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2023-02-14 20:22:03.1114 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2023-02-14 20:22:03.1114 Info App config/log directory: /config/Jackett 
+2023-02-14 20:22:03.1154 Info Using proxy: Disabled 
+2023-02-14 20:22:03.1154 Info Using FlareSolverr: No 
+2023-02-14 20:22:03.1154 Error Your version of Jackett v0.20.779 is very old. Multiple indexers are likely to fail when using an old version. Update to the latest version of Jackett. 
+2023-02-14 20:22:03.1154 Info Using HTTP Client: HttpWebClient2 
+2023-02-14 20:22:03.1235 Info Loading Native indexers ... 
+2023-02-14 20:22:03.2896 Info Loaded 83 Native indexers: abnormal, alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, greatposterwall, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, morethantv, myanonamouse, ncore, nebulance, norbits, oppaitime, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentmafya, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho 
+2023-02-14 20:22:03.3007 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2023-02-14 20:22:04.9208 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, dragonworldreloaded, blutopia-api, jme-reunit3d, backups, gktorrent, deildu, movietorrentz, acgrip, hdbitscom, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, pornotor, ilcorsaronero, ccfbits, trezzor, piratadigital, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, elitetorrent-biz, crackingpatching, insanetracker, vizuk, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, portugas, desitorrents-api, sugoimusic, nbtorrents, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, twilightszoom, torlook, hd4fans, 2fast4you, kisssub, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, cryptichaven, underverse, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, omgwtftrackr, moviesite, aniRena, theaudioscene, wihd, aftershock, peerjunkies, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, hamsterstudio, crazyhd, mononokebt, libranet, xbit, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, gfxpeers, catorrent, torrentslocal, prostylex, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, p2pelite, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, bluesbrothers, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, hidden-palace, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, hdme, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, iv-torrents, torrentfunk, kickasstorrents-to, classix, nitro, bitded, 3dtorrents, hdmonkey, bitbr, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, kinonavse100, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, netlab, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, torrentdb, pornbits, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, hdai, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, ibit, hdspain, digitalcore, ebookparadijs, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, thehorrorcharnel, peeratiko, bithorlo, theshinning, ehentai, hdturk, haitang, animeitalia, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, ilcorsaroverde, 24rolika, milkie, opensharing, nntt, torrentgalaxy, greekdiamond, pwtorrents, microbit, moviesdvdr, tjupt, mediamaatjes, pttime, torrentlt, coastalcrew, brasiltracker, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, zooqle, limetorrentsclone, btschool, rudub, houseofdevil, scenepalace, limetorrents, themixingbowl, hqsource, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, netcosmo, whiteangel, tlfbits, u2, trancetraffic, oxtorrent, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, torrentsurf, ilcorsaroblu, spidertk, hellastz, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, anaschcc, the-devils-lounge, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, purovicio, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, fouducinema, newpct-me, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, trackeros-api, torrentleech-pl, turktracker, sdbits, speedmasterhd, ptfiles, hdcenter, badasstorrents, btetree, chilebt, torrentland-api, torrenting, torrentdownloads, torrentsir, pornolive, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, soundpark, nethd, pthome, datatalli, redbits-api, immortuos, alleenretail, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, hdcity, film-paleis, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, swarmazon, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, underversel, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, torrentparadise, mousebits, fanoin, btdigg, selezen, bitcityreloaded, animeclipse, 52pt, wdt, aidoruonline, esharenet, puurhollands, newstudio 
+2023-02-14 20:22:04.9208 Info Loaded 579 indexers in total 
+2023-02-14 20:22:04.9208 Info Adding aggregate indexer ('all' indexer) ... 
+2023-02-14 20:22:04.9289 Info Adding filter indexer ('type:public' indexer) ... 
+2023-02-14 20:22:04.9289 Info Adding filter indexer ('type:private' indexer) ... 
+2023-02-14 20:22:04.9289 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2023-02-14 20:22:05.1038 Info Jackett startup finished in 3.932 s 
+2023-02-14 20:22:32.9087 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2023-02-14 20:22:33.9323 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:34.0108 Info Torznab search in EZTV => Found 100 releases 
+2023-02-14 20:22:34.4213 Info Torznab search in The Pirate Bay => Found 7 releases 
+2023-02-14 20:22:34.4952 Info Torznab search in ExtraTorrent.st => Found 20 releases 
+2023-02-14 20:22:34.6690 Info Torznab search in kickasstorrents.to => Found 46 releases 
+2023-02-14 20:22:35.1695 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:36.4345 Info Torznab search in 1337x => Found 20 releases 
+2023-02-14 20:22:37.1100 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:38.5081 Warn Request to RARBG failed with status 520. Retrying in 0.5s... (Attempt 1 of 2). 
+2023-02-14 20:22:39.1052 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:41.1059 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:41.1322 Warn Request to RARBG failed with status 520. Retrying in 1s... (Attempt 2 of 2). 
+2023-02-14 20:22:43.0942 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:43.7718 Error Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398 Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398
+2023-02-14 20:22:45.0988 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:47.0931 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:49.0858 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:51.0846 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:53.1011 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:55.0904 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:57.0854 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:58.5348 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2023-02-14 20:22:58.5348 Info Torznab search in The Pirate Bay => Found 7 releases (from cache) 
+2023-02-14 20:22:58.5495 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2023-02-14 20:22:58.9194 Info Torznab search in RARBG => Found 100 releases 
+2023-02-14 20:22:59.0858 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:22:59.0949 Info Torznab search in 1337x => Found 20 releases (from cache) 
+2023-02-14 20:22:59.1121 Info Torznab search in ExtraTorrent.st => Found 20 releases (from cache) 
+2023-02-14 20:22:59.1963 Info Torznab search in kickasstorrents.to => Found 46 releases (from cache) 
+2023-02-14 20:23:01.0883 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:23:03.0858 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:23:05.1075 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:23:07.0822 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:23:09.0832 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:23:11.0865 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:23:12.3432 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2023-02-14 20:23:12.3995 Error Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 178
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 209
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 607
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1383
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 415
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 415
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 771
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 434 Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 178
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 209
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 607
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1383
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 415
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 415
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 771
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 434
+2023-02-14 20:23:12.4842 Warn Request to RARBG failed with status 520. Retrying in 0.5s... (Attempt 1 of 2). 
+2023-02-14 20:23:12.6237 Info Torznab search in EZTV for Real Housewives of Potomac S07E04 => Found 3 releases 
+2023-02-14 20:23:12.7553 Info Torznab search in kickasstorrents.to for Real Housewives of Potomac S07E04 => Found 3 releases 
+2023-02-14 20:23:13.0862 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:23:13.1423 Info Torznab search in 1337x for Real Housewives of Potomac S07E04 => Found 3 releases 
+2023-02-14 20:23:13.7167 Info Torznab search in The Pirate Bay for Real Housewives of Potomac S07E04 => Found 3 releases 
+2023-02-14 20:23:15.1160 Warn Request to RARBG failed with status 520. Retrying in 1s... (Attempt 2 of 2). 
+2023-02-14 20:23:15.4919 Info Torznab search in LimeTorrents for Real Housewives of Potomac S07E04 => Found 6 releases 
+2023-02-14 20:23:17.0822 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:23:17.7438 Error Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 415
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 415
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 771
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 434 Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 415
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 415
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 771
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 434
+2023-02-14 20:23:19.0801 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:23:21.0875 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:23:23.0850 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:23:25.0831 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:24:38.6384 Info Starting Jackett v0.20.779 
+2023-02-14 20:24:39.4187 Info Environment version: 6.0.3 (/app/Jackett/) 
+2023-02-14 20:24:39.4187 Info OS version: Unix 5.15.0.48 (64bit OS) (64bit process) 
+2023-02-14 20:24:39.4187 Info Jackett variant: CoreLinuxAmdx64 
+2023-02-14 20:24:39.4187 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2023-02-14 20:24:39.4187 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2023-02-14 20:24:39.4227 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2023-02-14 20:24:39.4227 Info App config/log directory: /config/Jackett 
+2023-02-14 20:24:39.4227 Info Using proxy: Disabled 
+2023-02-14 20:24:39.4227 Info Using FlareSolverr: No 
+2023-02-14 20:24:39.4227 Error Your version of Jackett v0.20.779 is very old. Multiple indexers are likely to fail when using an old version. Update to the latest version of Jackett. 
+2023-02-14 20:24:39.4306 Info Using HTTP Client: HttpWebClient2 
+2023-02-14 20:24:39.4444 Info Loading Native indexers ... 
+2023-02-14 20:24:39.6834 Info Loaded 83 Native indexers: abnormal, alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, greatposterwall, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, morethantv, myanonamouse, ncore, nebulance, norbits, oppaitime, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentmafya, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho 
+2023-02-14 20:24:39.6882 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2023-02-14 20:24:41.9522 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, dragonworldreloaded, blutopia-api, jme-reunit3d, backups, gktorrent, deildu, movietorrentz, acgrip, hdbitscom, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, pornotor, ilcorsaronero, ccfbits, trezzor, piratadigital, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, elitetorrent-biz, crackingpatching, insanetracker, vizuk, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, portugas, desitorrents-api, sugoimusic, nbtorrents, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, twilightszoom, torlook, hd4fans, 2fast4you, kisssub, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, cryptichaven, underverse, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, omgwtftrackr, moviesite, aniRena, theaudioscene, wihd, aftershock, peerjunkies, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, hamsterstudio, crazyhd, mononokebt, libranet, xbit, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, gfxpeers, catorrent, torrentslocal, prostylex, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, p2pelite, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, bluesbrothers, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, hidden-palace, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, hdme, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, iv-torrents, torrentfunk, kickasstorrents-to, classix, nitro, bitded, 3dtorrents, hdmonkey, bitbr, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, kinonavse100, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, netlab, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, torrentdb, pornbits, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, hdai, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, ibit, hdspain, digitalcore, ebookparadijs, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, thehorrorcharnel, peeratiko, bithorlo, theshinning, ehentai, hdturk, haitang, animeitalia, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, ilcorsaroverde, 24rolika, milkie, opensharing, nntt, torrentgalaxy, greekdiamond, pwtorrents, microbit, moviesdvdr, tjupt, mediamaatjes, pttime, torrentlt, coastalcrew, brasiltracker, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, zooqle, limetorrentsclone, btschool, rudub, houseofdevil, scenepalace, limetorrents, themixingbowl, hqsource, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, netcosmo, whiteangel, tlfbits, u2, trancetraffic, oxtorrent, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, torrentsurf, ilcorsaroblu, spidertk, hellastz, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, anaschcc, the-devils-lounge, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, purovicio, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, fouducinema, newpct-me, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, trackeros-api, torrentleech-pl, turktracker, sdbits, speedmasterhd, ptfiles, hdcenter, badasstorrents, btetree, chilebt, torrentland-api, torrenting, torrentdownloads, torrentsir, pornolive, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, soundpark, nethd, pthome, datatalli, redbits-api, immortuos, alleenretail, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, hdcity, film-paleis, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, swarmazon, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, underversel, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, torrentparadise, mousebits, fanoin, btdigg, selezen, bitcityreloaded, animeclipse, 52pt, wdt, aidoruonline, esharenet, puurhollands, newstudio 
+2023-02-14 20:24:41.9522 Info Loaded 579 indexers in total 
+2023-02-14 20:24:41.9522 Info Adding aggregate indexer ('all' indexer) ... 
+2023-02-14 20:24:41.9613 Info Adding filter indexer ('type:public' indexer) ... 
+2023-02-14 20:24:41.9613 Info Adding filter indexer ('type:private' indexer) ... 
+2023-02-14 20:24:41.9613 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2023-02-14 20:24:42.1923 Info Jackett startup finished in 4.950 s 
+2023-02-14 20:24:56.0032 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:24:56.0032 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2023-02-14 20:24:56.0032 Warn Some of the categories provided are unsupported in RARBG: 2010,2020 
+2023-02-14 20:24:56.0032 Warn Some of the categories provided are unsupported in ExtraTorrent.st: 2030,2050 
+2023-02-14 20:24:56.1158 Warn Some of the categories provided are unsupported in 1337x: 2020,2050 
+2023-02-14 20:24:56.1158 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:24:56.3829 Error Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 178
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 186
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 603
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1383
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398 Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 178
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 186
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 603
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1383
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398
+2023-02-14 20:24:57.3639 Info Torznab search in kickasstorrents.to for Furious 7 2015 => Found 98 releases 
+2023-02-14 20:24:57.3639 Info Torznab search in kickasstorrents.to for Furious 7 2015 => Found 98 releases 
+2023-02-14 20:24:57.6086 Info Torznab search in 1337x for Furious 7 2015 => Found 57 releases 
+2023-02-14 20:24:57.9011 Info Torznab search in The Pirate Bay for Furious 7 2015 => Found 97 releases 
+2023-02-14 20:25:01.6323 Warn Request to RARBG failed with status 520. Retrying in 0.5s... (Attempt 1 of 2). 
+2023-02-14 20:25:04.2640 Warn Request to RARBG failed with status 520. Retrying in 1s... (Attempt 2 of 2). 
+2023-02-14 20:25:06.8928 Error Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398 Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398
+2023-02-14 20:25:13.5008 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2023-02-14 20:25:13.8128 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:14.0290 Info Torznab search in kickasstorrents.to => Found 46 releases 
+2023-02-14 20:25:14.0917 Info Torznab search in EZTV => Found 100 releases 
+2023-02-14 20:25:14.7897 Info Torznab search in The Pirate Bay => Found 7 releases 
+2023-02-14 20:25:15.7167 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:16.3351 Info Torznab search in 1337x => Found 20 releases 
+2023-02-14 20:25:17.6921 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:19.6968 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:21.6925 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:23.6960 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:25.6936 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:27.6910 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:29.6894 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:31.6896 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:33.1679 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2023-02-14 20:25:33.6928 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:34.2020 Info Torznab search in The Pirate Bay => Found 3 releases 
+2023-02-14 20:25:34.2120 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:25:34.6945 Info Torznab search in kickasstorrents.to => Found 9 releases 
+2023-02-14 20:25:34.7034 Warn Some of the categories provided are unsupported in RARBG: 2010,2020 
+2023-02-14 20:25:34.9130 Info Torznab search in RARBG => Found 100 releases 
+2023-02-14 20:25:34.9536 Warn Some of the categories provided are unsupported in 1337x: 2020,2050 
+2023-02-14 20:25:35.6933 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:37.6924 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:37.8095 Info Torznab search in 1337x => Found 20 releases 
+2023-02-14 20:25:37.8205 Warn Some of the categories provided are unsupported in ExtraTorrent.st: 2030,2050 
+2023-02-14 20:25:38.4339 Info Torznab search in ExtraTorrent.st => Found 10 releases 
+2023-02-14 20:25:38.4564 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:25:38.4564 Info Torznab search in kickasstorrents.to => Found 9 releases (from cache) 
+2023-02-14 20:25:39.6921 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:41.6926 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:43.7040 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:44.6836 Warn Some of the categories provided are unsupported in ExtraTorrent.st: 2030,2050 
+2023-02-14 20:25:44.6836 Info Torznab search in ExtraTorrent.st => Found 10 releases (from cache) 
+2023-02-14 20:25:45.6985 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:46.6839 Warn Some of the categories provided are unsupported in ExtraTorrent.st: 2030,2050 
+2023-02-14 20:25:46.6839 Info Torznab search in ExtraTorrent.st => Found 10 releases (from cache) 
+2023-02-14 20:25:47.6965 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:49.4401 Warn Some of the categories provided are unsupported in RARBG: 2010,2020 
+2023-02-14 20:25:49.4401 Info Torznab search in RARBG => Found 100 releases (from cache) 
+2023-02-14 20:25:49.6915 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:51.4410 Warn Some of the categories provided are unsupported in RARBG: 2010,2020 
+2023-02-14 20:25:51.4410 Info Torznab search in RARBG => Found 100 releases (from cache) 
+2023-02-14 20:25:51.6907 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:53.6897 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:55.6895 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:57.6886 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:25:59.6870 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:26:01.7160 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:26:03.6929 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:26:05.6889 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:26:07.6889 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:26:09.7047 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:26:11.6897 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:30:08.2126 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2023-02-14 20:30:08.2126 Info Torznab search in The Pirate Bay => Found 7 releases (from cache) 
+2023-02-14 20:30:08.2289 Info Torznab search in EZTV => Found 100 releases (from cache) 
+2023-02-14 20:30:08.6465 Info Torznab search in RARBG => Found 100 releases 
+2023-02-14 20:30:08.7445 Info Torznab search in 1337x => Found 20 releases (from cache) 
+2023-02-14 20:30:09.3776 Info Torznab search in ExtraTorrent.st => Found 20 releases 
+2023-02-14 20:30:09.4339 Info Torznab search in kickasstorrents.to => Found 46 releases (from cache) 
+2023-02-14 20:30:09.8362 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:33:13.3314 Info Starting Jackett v0.20.779 
+2023-02-14 20:33:13.9040 Info Environment version: 6.0.3 (/app/Jackett/) 
+2023-02-14 20:33:13.9040 Info OS version: Unix 5.15.0.48 (64bit OS) (64bit process) 
+2023-02-14 20:33:13.9040 Info Jackett variant: CoreLinuxAmdx64 
+2023-02-14 20:33:13.9040 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2023-02-14 20:33:13.9040 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2023-02-14 20:33:13.9068 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2023-02-14 20:33:13.9068 Info App config/log directory: /config/Jackett 
+2023-02-14 20:33:13.9068 Info Using proxy: Disabled 
+2023-02-14 20:33:13.9068 Info Using FlareSolverr: No 
+2023-02-14 20:33:13.9068 Error Your version of Jackett v0.20.779 is very old. Multiple indexers are likely to fail when using an old version. Update to the latest version of Jackett. 
+2023-02-14 20:33:13.9068 Info Using HTTP Client: HttpWebClient2 
+2023-02-14 20:33:13.9150 Info Loading Native indexers ... 
+2023-02-14 20:33:14.0747 Info Loaded 83 Native indexers: abnormal, alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, greatposterwall, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, morethantv, myanonamouse, ncore, nebulance, norbits, oppaitime, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentmafya, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho 
+2023-02-14 20:33:14.0787 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2023-02-14 20:33:15.7285 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, dragonworldreloaded, blutopia-api, jme-reunit3d, backups, gktorrent, deildu, movietorrentz, acgrip, hdbitscom, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, pornotor, ilcorsaronero, ccfbits, trezzor, piratadigital, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, elitetorrent-biz, crackingpatching, insanetracker, vizuk, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, portugas, desitorrents-api, sugoimusic, nbtorrents, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, twilightszoom, torlook, hd4fans, 2fast4you, kisssub, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, cryptichaven, underverse, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, omgwtftrackr, moviesite, aniRena, theaudioscene, wihd, aftershock, peerjunkies, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, hamsterstudio, crazyhd, mononokebt, libranet, xbit, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, gfxpeers, catorrent, torrentslocal, prostylex, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, p2pelite, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, bluesbrothers, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, hidden-palace, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, hdme, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, iv-torrents, torrentfunk, kickasstorrents-to, classix, nitro, bitded, 3dtorrents, hdmonkey, bitbr, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, kinonavse100, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, netlab, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, torrentdb, pornbits, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, hdai, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, ibit, hdspain, digitalcore, ebookparadijs, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, thehorrorcharnel, peeratiko, bithorlo, theshinning, ehentai, hdturk, haitang, animeitalia, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, ilcorsaroverde, 24rolika, milkie, opensharing, nntt, torrentgalaxy, greekdiamond, pwtorrents, microbit, moviesdvdr, tjupt, mediamaatjes, pttime, torrentlt, coastalcrew, brasiltracker, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, zooqle, limetorrentsclone, btschool, rudub, houseofdevil, scenepalace, limetorrents, themixingbowl, hqsource, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, netcosmo, whiteangel, tlfbits, u2, trancetraffic, oxtorrent, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, torrentsurf, ilcorsaroblu, spidertk, hellastz, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, anaschcc, the-devils-lounge, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, purovicio, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, fouducinema, newpct-me, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, trackeros-api, torrentleech-pl, turktracker, sdbits, speedmasterhd, ptfiles, hdcenter, badasstorrents, btetree, chilebt, torrentland-api, torrenting, torrentdownloads, torrentsir, pornolive, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, soundpark, nethd, pthome, datatalli, redbits-api, immortuos, alleenretail, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, hdcity, film-paleis, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, swarmazon, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, underversel, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, torrentparadise, mousebits, fanoin, btdigg, selezen, bitcityreloaded, animeclipse, 52pt, wdt, aidoruonline, esharenet, puurhollands, newstudio 
+2023-02-14 20:33:15.7285 Info Loaded 579 indexers in total 
+2023-02-14 20:33:15.7285 Info Adding aggregate indexer ('all' indexer) ... 
+2023-02-14 20:33:15.7368 Info Adding filter indexer ('type:public' indexer) ... 
+2023-02-14 20:33:15.7368 Info Adding filter indexer ('type:private' indexer) ... 
+2023-02-14 20:33:15.7368 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2023-02-14 20:33:15.9131 Info Jackett startup finished in 3.911 s 
+2023-02-14 20:35:31.0030 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:35:31.0030 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2023-02-14 20:35:31.0030 Warn Some of the categories provided are unsupported in 1337x: 2020,2050 
+2023-02-14 20:35:31.0030 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:35:31.1452 Warn Some of the categories provided are unsupported in RARBG: 2010,2020 
+2023-02-14 20:35:31.2083 Warn Some of the categories provided are unsupported in ExtraTorrent.st: 2030,2050 
+2023-02-14 20:35:31.5009 Error Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 178
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 186
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 603
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1383
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398 Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 178
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 186
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 603
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1383
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398
+2023-02-14 20:35:32.4352 Info Torznab search in kickasstorrents.to for Avengers Infinity War 2018 => Found 97 releases 
+2023-02-14 20:35:32.4352 Info Torznab search in kickasstorrents.to for Avengers Infinity War 2018 => Found 97 releases 
+2023-02-14 20:35:32.7382 Info Torznab search in 1337x for Avengers Infinity War 2018 => Found 58 releases 
+2023-02-14 20:35:32.9786 Info Torznab search in The Pirate Bay for Avengers Infinity War 2018 => Found 91 releases 
+2023-02-14 20:35:36.7188 Warn Request to RARBG failed with status 520. Retrying in 0.5s... (Attempt 1 of 2). 
+2023-02-14 20:35:39.3552 Warn Request to RARBG failed with status 520. Retrying in 1s... (Attempt 2 of 2). 
+2023-02-14 20:35:41.9866 Error Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398 Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398
+2023-02-14 20:35:50.1444 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2023-02-14 20:35:50.1444 Warn Some of the categories provided are unsupported in 1337x: 2020,2050 
+2023-02-14 20:35:50.1469 Info Torznab search in The Pirate Bay for Avengers Infinity War 2018 => Found 91 releases (from cache) 
+2023-02-14 20:35:50.1469 Info Torznab search in 1337x for Avengers Infinity War 2018 => Found 58 releases (from cache) 
+2023-02-14 20:35:50.1551 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:35:50.1551 Info Torznab search in kickasstorrents.to for Avengers Infinity War 2018 => Found 97 releases (from cache) 
+2023-02-14 20:35:50.1609 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:35:50.1609 Info Torznab search in kickasstorrents.to for Avengers Infinity War 2018 => Found 97 releases (from cache) 
+2023-02-14 20:36:22.5574 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2023-02-14 20:36:23.8447 Info Torznab search in The Pirate Bay => Found 3 releases 
+2023-02-14 20:36:23.8554 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:36:24.3053 Info Torznab search in kickasstorrents.to => Found 9 releases 
+2023-02-14 20:36:24.3129 Warn Some of the categories provided are unsupported in RARBG: 2010,2020 
+2023-02-14 20:36:24.5322 Info Torznab search in RARBG => Found 100 releases 
+2023-02-14 20:36:24.5684 Warn Some of the categories provided are unsupported in 1337x: 2020,2050 
+2023-02-14 20:36:27.6828 Info Torznab search in 1337x => Found 20 releases 
+2023-02-14 20:36:27.6955 Warn Some of the categories provided are unsupported in ExtraTorrent.st: 2030,2050 
+2023-02-14 20:36:28.5209 Info Torznab search in ExtraTorrent.st => Found 10 releases 
+2023-02-14 20:36:28.5369 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:36:28.5369 Info Torznab search in kickasstorrents.to => Found 9 releases (from cache) 
+2023-02-14 20:36:53.1805 Warn Some of the categories provided are unsupported in The Pirate Bay: 2010,2030,2045,2050 
+2023-02-14 20:36:53.1805 Info Torznab search in The Pirate Bay for Avengers Infinity War 2018 => Found 91 releases (from cache) 
+2023-02-14 20:36:53.1805 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:36:53.1805 Info Torznab search in kickasstorrents.to for Avengers Infinity War 2018 => Found 97 releases (from cache) 
+2023-02-14 20:36:53.1805 Warn Some of the categories provided are unsupported in 1337x: 2020,2050 
+2023-02-14 20:36:53.1805 Info Torznab search in 1337x for Avengers Infinity War 2018 => Found 58 releases (from cache) 
+2023-02-14 20:36:53.1908 Warn Some of the categories provided are unsupported in RARBG: 2010,2020 
+2023-02-14 20:36:53.1908 Warn Some of the categories provided are unsupported in ExtraTorrent.st: 2030,2050 
+2023-02-14 20:36:53.1908 Warn Some of the categories provided are unsupported in kickasstorrents.to: 2010,2020,2030,2040,2045,2050,2060 
+2023-02-14 20:36:53.1908 Info Torznab search in kickasstorrents.to for Avengers Infinity War 2018 => Found 97 releases (from cache) 
+2023-02-14 20:36:53.2401 Error Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 178
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 209
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 603
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1383
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398 Jackett.Common.IndexerException: Exception (extratorrent-st): Challenge detected but FlareSolverr is not configured
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 178
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 209
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 603
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1383
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398
+2023-02-14 20:36:53.3438 Info Torznab search in RARBG => Found 50 releases 
+2023-02-14 20:40:30.7600 Info Starting Jackett v0.20.779 
+2023-02-14 20:40:31.5862 Info Environment version: 6.0.3 (/app/Jackett/) 
+2023-02-14 20:40:31.5875 Info OS version: Unix 5.15.0.48 (64bit OS) (64bit process) 
+2023-02-14 20:40:31.5875 Info Jackett variant: CoreLinuxAmdx64 
+2023-02-14 20:40:31.5875 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2023-02-14 20:40:31.5875 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2023-02-14 20:40:31.5875 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2023-02-14 20:40:31.5909 Info App config/log directory: /config/Jackett 
+2023-02-14 20:40:31.5909 Info Using proxy: Disabled 
+2023-02-14 20:40:31.5909 Info Using FlareSolverr: No 
+2023-02-14 20:40:31.5909 Error Your version of Jackett v0.20.779 is very old. Multiple indexers are likely to fail when using an old version. Update to the latest version of Jackett. 
+2023-02-14 20:40:31.5909 Info Using HTTP Client: HttpWebClient2 
+2023-02-14 20:40:31.6003 Info Loading Native indexers ... 
+2023-02-14 20:40:31.8094 Info Loaded 83 Native indexers: abnormal, alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, greatposterwall, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, morethantv, myanonamouse, ncore, nebulance, norbits, oppaitime, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentmafya, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho 
+2023-02-14 20:40:31.8136 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2023-02-14 20:40:33.8863 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, dragonworldreloaded, blutopia-api, jme-reunit3d, backups, gktorrent, deildu, movietorrentz, acgrip, hdbitscom, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, pornotor, ilcorsaronero, ccfbits, trezzor, piratadigital, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, elitetorrent-biz, crackingpatching, insanetracker, vizuk, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, portugas, desitorrents-api, sugoimusic, nbtorrents, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, twilightszoom, torlook, hd4fans, 2fast4you, kisssub, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, cryptichaven, underverse, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, omgwtftrackr, moviesite, aniRena, theaudioscene, wihd, aftershock, peerjunkies, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, hamsterstudio, crazyhd, mononokebt, libranet, xbit, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, gfxpeers, catorrent, torrentslocal, prostylex, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, p2pelite, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, bluesbrothers, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, hidden-palace, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, hdme, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, iv-torrents, torrentfunk, kickasstorrents-to, classix, nitro, bitded, 3dtorrents, hdmonkey, bitbr, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, kinonavse100, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, netlab, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, torrentdb, pornbits, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, hdai, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, ibit, hdspain, digitalcore, ebookparadijs, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, thehorrorcharnel, peeratiko, bithorlo, theshinning, ehentai, hdturk, haitang, animeitalia, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, ilcorsaroverde, 24rolika, milkie, opensharing, nntt, torrentgalaxy, greekdiamond, pwtorrents, microbit, moviesdvdr, tjupt, mediamaatjes, pttime, torrentlt, coastalcrew, brasiltracker, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, zooqle, limetorrentsclone, btschool, rudub, houseofdevil, scenepalace, limetorrents, themixingbowl, hqsource, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, netcosmo, whiteangel, tlfbits, u2, trancetraffic, oxtorrent, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, torrentsurf, ilcorsaroblu, spidertk, hellastz, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, anaschcc, the-devils-lounge, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, purovicio, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, fouducinema, newpct-me, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, trackeros-api, torrentleech-pl, turktracker, sdbits, speedmasterhd, ptfiles, hdcenter, badasstorrents, btetree, chilebt, torrentland-api, torrenting, torrentdownloads, torrentsir, pornolive, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, soundpark, nethd, pthome, datatalli, redbits-api, immortuos, alleenretail, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, hdcity, film-paleis, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, swarmazon, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, underversel, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, torrentparadise, mousebits, fanoin, btdigg, selezen, bitcityreloaded, animeclipse, 52pt, wdt, aidoruonline, esharenet, puurhollands, newstudio 
+2023-02-14 20:40:33.8863 Info Loaded 579 indexers in total 
+2023-02-14 20:40:33.8880 Info Adding aggregate indexer ('all' indexer) ... 
+2023-02-14 20:40:33.8960 Info Adding filter indexer ('type:public' indexer) ... 
+2023-02-14 20:40:33.8960 Info Adding filter indexer ('type:private' indexer) ... 
+2023-02-14 20:40:33.8960 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2023-02-14 20:40:34.1494 Info Jackett startup finished in 4.957 s 
+2023-02-14 20:41:38.8133 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2023-02-14 20:41:39.8307 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:41:40.3190 Info Torznab search in EZTV => Found 100 releases 
+2023-02-14 20:41:40.5062 Info Torznab search in ExtraTorrent.st => Found 20 releases 
+2023-02-14 20:41:40.5593 Info Torznab search in The Pirate Bay => Found 6 releases 
+2023-02-14 20:41:40.7490 Info Torznab search in kickasstorrents.to => Found 46 releases 
+2023-02-14 20:41:42.4348 Info Torznab search in 1337x => Found 20 releases 
+2023-02-14 20:41:44.4933 Warn Request to RARBG failed with status 520. Retrying in 0.5s... (Attempt 1 of 2). 
+2023-02-14 20:41:47.1404 Warn Request to RARBG failed with status 520. Retrying in 1s... (Attempt 2 of 2). 
+2023-02-14 20:41:49.7893 Error Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398 Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398
+2023-02-14 20:43:02.1468 Info Starting Jackett v0.20.779 
+2023-02-14 20:43:02.9554 Info Environment version: 6.0.3 (/app/Jackett/) 
+2023-02-14 20:43:02.9554 Info OS version: Unix 5.15.0.48 (64bit OS) (64bit process) 
+2023-02-14 20:43:02.9554 Info Jackett variant: CoreLinuxAmdx64 
+2023-02-14 20:43:02.9554 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2023-02-14 20:43:02.9554 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2023-02-14 20:43:02.9591 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2023-02-14 20:43:02.9591 Info App config/log directory: /config/Jackett 
+2023-02-14 20:43:02.9591 Info Using proxy: Disabled 
+2023-02-14 20:43:02.9591 Info Using FlareSolverr: No 
+2023-02-14 20:43:02.9628 Error Your version of Jackett v0.20.779 is very old. Multiple indexers are likely to fail when using an old version. Update to the latest version of Jackett. 
+2023-02-14 20:43:02.9628 Info Using HTTP Client: HttpWebClient2 
+2023-02-14 20:43:02.9694 Info Loading Native indexers ... 
+2023-02-14 20:43:03.1755 Info Loaded 83 Native indexers: abnormal, alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, greatposterwall, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, morethantv, myanonamouse, ncore, nebulance, norbits, oppaitime, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentmafya, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho 
+2023-02-14 20:43:03.1799 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2023-02-14 20:43:05.1023 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, dragonworldreloaded, blutopia-api, jme-reunit3d, backups, gktorrent, deildu, movietorrentz, acgrip, hdbitscom, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, pornotor, ilcorsaronero, ccfbits, trezzor, piratadigital, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, elitetorrent-biz, crackingpatching, insanetracker, vizuk, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, portugas, desitorrents-api, sugoimusic, nbtorrents, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, twilightszoom, torlook, hd4fans, 2fast4you, kisssub, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, cryptichaven, underverse, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, omgwtftrackr, moviesite, aniRena, theaudioscene, wihd, aftershock, peerjunkies, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, hamsterstudio, crazyhd, mononokebt, libranet, xbit, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, gfxpeers, catorrent, torrentslocal, prostylex, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, p2pelite, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, bluesbrothers, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, hidden-palace, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, hdme, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, iv-torrents, torrentfunk, kickasstorrents-to, classix, nitro, bitded, 3dtorrents, hdmonkey, bitbr, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, kinonavse100, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, netlab, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, torrentdb, pornbits, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, hdai, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, ibit, hdspain, digitalcore, ebookparadijs, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, thehorrorcharnel, peeratiko, bithorlo, theshinning, ehentai, hdturk, haitang, animeitalia, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, ilcorsaroverde, 24rolika, milkie, opensharing, nntt, torrentgalaxy, greekdiamond, pwtorrents, microbit, moviesdvdr, tjupt, mediamaatjes, pttime, torrentlt, coastalcrew, brasiltracker, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, zooqle, limetorrentsclone, btschool, rudub, houseofdevil, scenepalace, limetorrents, themixingbowl, hqsource, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, netcosmo, whiteangel, tlfbits, u2, trancetraffic, oxtorrent, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, torrentsurf, ilcorsaroblu, spidertk, hellastz, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, anaschcc, the-devils-lounge, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, purovicio, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, fouducinema, newpct-me, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, trackeros-api, torrentleech-pl, turktracker, sdbits, speedmasterhd, ptfiles, hdcenter, badasstorrents, btetree, chilebt, torrentland-api, torrenting, torrentdownloads, torrentsir, pornolive, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, soundpark, nethd, pthome, datatalli, redbits-api, immortuos, alleenretail, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, hdcity, film-paleis, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, swarmazon, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, underversel, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, torrentparadise, mousebits, fanoin, btdigg, selezen, bitcityreloaded, animeclipse, 52pt, wdt, aidoruonline, esharenet, puurhollands, newstudio 
+2023-02-14 20:43:05.1023 Info Loaded 579 indexers in total 
+2023-02-14 20:43:05.1037 Info Adding aggregate indexer ('all' indexer) ... 
+2023-02-14 20:43:05.1108 Info Adding filter indexer ('type:public' indexer) ... 
+2023-02-14 20:43:05.1108 Info Adding filter indexer ('type:private' indexer) ... 
+2023-02-14 20:43:05.1108 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2023-02-14 20:43:05.2943 Info Jackett startup finished in 4.602 s 
+2023-02-14 20:43:29.8053 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2023-02-14 20:43:31.3882 Info Torznab search in The Pirate Bay => Found 6 releases 
+2023-02-14 20:43:32.5220 Info Torznab search in EZTV => Found 100 releases 
+2023-02-14 20:43:37.9758 Warn Request to RARBG failed with status 520. Retrying in 0.5s... (Attempt 1 of 2). 
+2023-02-14 20:43:40.6090 Warn Request to RARBG failed with status 520. Retrying in 1s... (Attempt 2 of 2). 
+2023-02-14 20:43:43.2402 Error Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398 Jackett.Common.IndexerException: Exception (rarbg): Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+ ---> Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   at Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   at Jackett.Common.Indexers.RarBG.PerformQueryWithRetry(TorznabQuery query, Boolean retry) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 143
+   at Jackett.Common.Indexers.RarBG.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/RarBG.cs:line 134
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 401
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 413
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 768
+   at Jackett.Server.Controllers.ResultsController.Torznab(TorznabRequest request) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 398
+2023-02-14 20:43:47.2737 Info Torznab search in 1337x => Found 20 releases 
+2023-02-14 20:43:48.0930 Info Torznab search in ExtraTorrent.st => Found 20 releases 
+2023-02-14 20:43:48.6188 Info Torznab search in kickasstorrents.to => Found 46 releases 
+2023-02-14 20:43:48.9424 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:47:14.9811 Info Starting Jackett v0.20.779 
+2023-02-14 20:47:15.7555 Info Environment version: 6.0.3 (/app/Jackett/) 
+2023-02-14 20:47:15.7555 Info OS version: Unix 5.15.0.48 (64bit OS) (64bit process) 
+2023-02-14 20:47:15.7555 Info Jackett variant: CoreLinuxAmdx64 
+2023-02-14 20:47:15.7555 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2023-02-14 20:47:15.7555 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2023-02-14 20:47:15.7628 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2023-02-14 20:47:15.7628 Info App config/log directory: /config/Jackett 
+2023-02-14 20:47:15.7628 Info Using proxy: Disabled 
+2023-02-14 20:47:15.7628 Info Using FlareSolverr: No 
+2023-02-14 20:47:15.7628 Error Your version of Jackett v0.20.779 is very old. Multiple indexers are likely to fail when using an old version. Update to the latest version of Jackett. 
+2023-02-14 20:47:15.7671 Info Using HTTP Client: HttpWebClient2 
+2023-02-14 20:47:15.7727 Info Loading Native indexers ... 
+2023-02-14 20:47:15.9949 Info Loaded 83 Native indexers: abnormal, alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, greatposterwall, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, morethantv, myanonamouse, ncore, nebulance, norbits, oppaitime, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentmafya, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho 
+2023-02-14 20:47:15.9993 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2023-02-14 20:47:18.0642 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, dragonworldreloaded, blutopia-api, jme-reunit3d, backups, gktorrent, deildu, movietorrentz, acgrip, hdbitscom, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, pornotor, ilcorsaronero, ccfbits, trezzor, piratadigital, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, elitetorrent-biz, crackingpatching, insanetracker, vizuk, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, portugas, desitorrents-api, sugoimusic, nbtorrents, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, twilightszoom, torlook, hd4fans, 2fast4you, kisssub, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, cryptichaven, underverse, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, omgwtftrackr, moviesite, aniRena, theaudioscene, wihd, aftershock, peerjunkies, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, hamsterstudio, crazyhd, mononokebt, libranet, xbit, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, gfxpeers, catorrent, torrentslocal, prostylex, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, p2pelite, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, bluesbrothers, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, hidden-palace, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, hdme, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, iv-torrents, torrentfunk, kickasstorrents-to, classix, nitro, bitded, 3dtorrents, hdmonkey, bitbr, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, kinonavse100, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, netlab, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, torrentdb, pornbits, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, hdai, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, ibit, hdspain, digitalcore, ebookparadijs, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, thehorrorcharnel, peeratiko, bithorlo, theshinning, ehentai, hdturk, haitang, animeitalia, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, ilcorsaroverde, 24rolika, milkie, opensharing, nntt, torrentgalaxy, greekdiamond, pwtorrents, microbit, moviesdvdr, tjupt, mediamaatjes, pttime, torrentlt, coastalcrew, brasiltracker, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, zooqle, limetorrentsclone, btschool, rudub, houseofdevil, scenepalace, limetorrents, themixingbowl, hqsource, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, netcosmo, whiteangel, tlfbits, u2, trancetraffic, oxtorrent, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, torrentsurf, ilcorsaroblu, spidertk, hellastz, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, anaschcc, the-devils-lounge, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, purovicio, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, fouducinema, newpct-me, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, trackeros-api, torrentleech-pl, turktracker, sdbits, speedmasterhd, ptfiles, hdcenter, badasstorrents, btetree, chilebt, torrentland-api, torrenting, torrentdownloads, torrentsir, pornolive, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, soundpark, nethd, pthome, datatalli, redbits-api, immortuos, alleenretail, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, hdcity, film-paleis, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, swarmazon, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, underversel, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, torrentparadise, mousebits, fanoin, btdigg, selezen, bitcityreloaded, animeclipse, 52pt, wdt, aidoruonline, esharenet, puurhollands, newstudio 
+2023-02-14 20:47:18.0642 Info Loaded 579 indexers in total 
+2023-02-14 20:47:18.0642 Info Adding aggregate indexer ('all' indexer) ... 
+2023-02-14 20:47:18.0729 Info Adding filter indexer ('type:public' indexer) ... 
+2023-02-14 20:47:18.0729 Info Adding filter indexer ('type:private' indexer) ... 
+2023-02-14 20:47:18.0729 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2023-02-14 20:47:18.2636 Info Jackett startup finished in 4.697 s 
+2023-02-14 20:51:48.8351 Info Starting Jackett v0.20.779 
+2023-02-14 20:51:49.6254 Info Environment version: 6.0.3 (/app/Jackett/) 
+2023-02-14 20:51:49.6254 Info OS version: Unix 5.15.0.48 (64bit OS) (64bit process) 
+2023-02-14 20:51:49.6274 Info Jackett variant: CoreLinuxAmdx64 
+2023-02-14 20:51:49.6274 Info File /etc/issue: Ubuntu 18.04.6 LTS \n \l 
+2023-02-14 20:51:49.6274 Info Running in Docker: Yes (image build: v0.20.779-ls60) 
+2023-02-14 20:51:49.6274 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2023-02-14 20:51:49.6274 Info App config/log directory: /config/Jackett 
+2023-02-14 20:51:49.6274 Info Using proxy: Disabled 
+2023-02-14 20:51:49.6307 Info Using FlareSolverr: No 
+2023-02-14 20:51:49.6307 Error Your version of Jackett v0.20.779 is very old. Multiple indexers are likely to fail when using an old version. Update to the latest version of Jackett. 
+2023-02-14 20:51:49.6307 Info Using HTTP Client: HttpWebClient2 
+2023-02-14 20:51:49.6393 Info Loading Native indexers ... 
+2023-02-14 20:51:49.8373 Info Loaded 83 Native indexers: abnormal, alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, greatposterwall, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, morethantv, myanonamouse, ncore, nebulance, norbits, oppaitime, orpheus, partis, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentmafya, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho 
+2023-02-14 20:51:49.8418 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2023-02-14 20:51:51.7379 Info Loaded 496 Cardigann indexers: hdbits, krazyzone, dragonworldreloaded, blutopia-api, jme-reunit3d, backups, gktorrent, deildu, movietorrentz, acgrip, hdbitscom, arabp2p, tribalmixes, opencd, internetarchive, fenyarnyek-tracker, zamundanet, huntorrent, megamixtracker, pornotor, ilcorsaronero, ccfbits, trezzor, piratadigital, pornforall, tvchaosuk, lesaloon, theplace, thesceneplace, torrenthr, ftuapps, greekteam, ebooks-shares, bibliotik, yts, elitetorrent-biz, crackingpatching, insanetracker, vizuk, haidan, xxxadulttorrent, twilight, unlimitz, booktracker, ptmsg, zomb, xthor-api, gay-torrents, portugas, desitorrents-api, sugoimusic, nbtorrents, xxxtor, datascene-api, rptorrents, torrentview, eniahd, superbits, learnbits, chdbits, yourbittorrent, linkomanija, romanianmetaltorrents, sexypics, gay-torrentsorg, pier720, pornbay, majomparade, uniondht, dariustracker, lastfiles, racingforme, extremebits, pctorrent, polishsource, twilightszoom, torlook, hd4fans, 2fast4you, kisssub, muziekfabriek, happyfappy, cpasbienclone, totheglory, bestcore, arenabg, cryptichaven, underverse, xwtorrents, racing4everyone-api, slosoul, megapeer, shareisland-api, pornoslab, omgwtftrackr, moviesite, aniRena, theaudioscene, wihd, aftershock, peerjunkies, torrentwhiz, turkseed, mikan, animeworld-api, totallykids, kinozal, hamsterstudio, crazyhd, mononokebt, libranet, xbit, rainbowtracker, acgsou, karagarga, extremlymtorrents, crazyspirits, skipthecommercials-api, torrentqq, gfxpeers, catorrent, torrentslocal, prostylex, torrentbd, spiritofrevolution, thefallingangels, audiobookbay, arabafenice, tasmanit, finelite, p2pbg, mteamtp, glodls, gaytorrentru, proaudiotorrents, p2pelite, jpopsuki, divteam, xbytesv2, carphunter, ydypt, estone, bluesbrothers, gigatorrents, pterclub, yggtorrent, vsttorrents, skipthetrailers, nipponsei, acrossthetasman, torrent-turk, springsunday, cpasbien, tokyotosho, torrentleech, zetorrents, bangumi-moe, totheglorycookie, theleachzone, ztracker, theempire, soulvoice, piratbit, torrent9clone, hdtime, hidden-palace, bitbazis, bitturk, frozenlayer, extremetorrents, 0daykiev, torrentoyunindir, amigosshare, rapidzona, torrentdownload, thevault, anisource, hdonly, 3changtrai, firebit, exkinoray, demonoid, hdme, cinematik, mircrew, losslessclub, hdatmos, movietorrent, 4thd, nyaasi, torrent9, crt2fa, iv-torrents, torrentfunk, kickasstorrents-to, classix, nitro, bitded, 3dtorrents, hdmonkey, bitbr, pussytorrents, mactorrentsdownload, RockBox, ourbits, sosulki, pornotorrent, jptv, animelayer, torrentccf, finvip, turktorrent, concen, extratorrent-st, teracod, mixtapetorrent, anime-free, torrentv, piratbitl, torrentkitty, mma-torrents, parnuxi, hdzone, peersfm, ptsbao, punkshorror, kinonavse100, r3vwtf, hdtorrentsit, rgfootball, hdolimpo-api, hdarea, legittorrents, linuxtracker, asiancinema, tellytorrent-api, bigfangroup, reelflix-api, hdsky, bitsearch, broadcity, vsthouse, idope, netlab, mypornclub, comicat, boxingtorrents, xxxtorrents, hddolby, torrentdb, pornbits, rustorka, teamos, hdchina, hdu, solidtorrents, filelisting, bithumen, hdai, putao, femdomcult, woot, carpathians, bt4g, gtorrentpro, korsar, empornium, bluebirdhd, dxp, bitsexy, ibit, hdspain, digitalcore, ebookparadijs, kinorun, torlock, generationfree-api, dimeadozen, aither-api, mvgroupmain, thehorrorcharnel, peeratiko, bithorlo, theshinning, ehentai, hdturk, haitang, animeitalia, lepornoinfo, kickasstorrents-ws, seedfile, byrbt, rintor, ilcorsaroverde, 24rolika, milkie, opensharing, nntt, torrentgalaxy, greekdiamond, pwtorrents, microbit, moviesdvdr, tjupt, mediamaatjes, pttime, torrentlt, coastalcrew, brasiltracker, torrentmasters, torrentz2eu, sukebeinyaasi, the-crazy-ones, zooqle, limetorrentsclone, btschool, rudub, houseofdevil, scenepalace, limetorrents, themixingbowl, hqsource, newretro, exttorrents, metaltracker, speedtorrentreloaded, resurrectthenet, myspleen, magico, bootytape, uniongang, pixelcove, torrentby, dmhy, yggcookie, lat-team-api, newstudiol, indietorrents, abtorrents, byrutor, learnflakes, zelkaorg, netcosmo, whiteangel, tlfbits, u2, trancetraffic, oxtorrent, bwtorrents, 1337x, puntotorrent, hdc, Bittorrentfiles, torrentsurf, ilcorsaroblu, spidertk, hellastz, sportscult, isohunt2, fantastiko, sporthd, audionews, cathoderaytube, rutracker-ru, anaschcc, the-devils-lounge, torrent-explosiv, ceskeforum, mteamtp2fa, docspedia, marinetracker, scenerush, onejav, btnext, dark-shadow, purovicio, uhdbits, thepiratebay, girotorrent, magicheaven, crnaberza, siambit, acidlounge, eztv, fouducinema, newpct-me, brsociety-api, genesismovement, noname-clubl, sktorrent-org, noname-club, mesevilag, tekno3d, hdcztorrent, oshenpt, trackeros-api, torrentleech-pl, turktracker, sdbits, speedmasterhd, ptfiles, hdcenter, badasstorrents, btetree, chilebt, torrentland-api, torrenting, torrentdownloads, torrentsir, pornolive, torrentsectorcrew, fantasticheaven, borgzelle, 0magnet, soundpark, nethd, pthome, datatalli, redbits-api, immortuos, alleenretail, keepfriends, rus-media, trupornolabs, jav-torrent, 1ptbar, tapochek, torrent-pirat, riperam, beyond-hd, unionfansub, theshow, diablotorrent, beitai, freshmeat, proporno, hdcity, film-paleis, potuk, torrentproject2, mnv, showrss, snowpt, anilibria, pornleech, swarmazon, redstartorrent, teamctgame, rutor, lemonhd, theoccult, tvroad, thegeeks, bitru, gamestorrents, hdroute, aussierules, discfan, cinemageddon, btsow, funkytorrents, sktorrent, madsrevolution, underversel, torrentseeds-api, falkonvisionteam, itorrent, sharewood, cartoonchaos, teamhd, empornium2fa, hawke-uno, concertos, danishbytes-api, cinemamovies, bitspyder, mvgroupforum, rintornet, xiteme, xwtclassics, hdforever, leech24, hdhome, torrentparadise, mousebits, fanoin, btdigg, selezen, bitcityreloaded, animeclipse, 52pt, wdt, aidoruonline, esharenet, puurhollands, newstudio 
+2023-02-14 20:51:51.7379 Info Loaded 579 indexers in total 
+2023-02-14 20:51:51.7394 Info Adding aggregate indexer ('all' indexer) ... 
+2023-02-14 20:51:51.7468 Info Adding filter indexer ('type:public' indexer) ... 
+2023-02-14 20:51:51.7468 Info Adding filter indexer ('type:private' indexer) ... 
+2023-02-14 20:51:51.7468 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2023-02-14 20:51:51.9457 Info Jackett startup finished in 4.543 s 
+2023-02-14 20:56:52.8879 Warn Some of the categories provided are unsupported in The Pirate Bay: 5030 
+2023-02-14 20:56:53.6379 Info Torznab search in LimeTorrents => Found 100 releases 
+2023-02-14 20:56:53.7096 Info Torznab search in EZTV => Found 100 releases 
+2023-02-14 20:56:54.1050 Info Torznab search in ExtraTorrent.st => Found 20 releases 
+2023-02-14 20:56:54.2183 Info Torznab search in The Pirate Bay => Found 6 releases 
+2023-02-14 20:56:54.3443 Info Torznab search in kickasstorrents.to => Found 46 releases 
+2023-02-14 20:56:56.5445 Info Torznab search in 1337x => Found 20 releases 
+2023-02-14 20:56:58.3916 Warn Request to RARBG failed with status 520. Retrying in 0.5s... (Attempt 1 of 2). 
+2023-02-14 20:57:01.0258 Warn Request to RARBG failed with status 520. Retrying in 1s... (Attempt 2 of 2). 

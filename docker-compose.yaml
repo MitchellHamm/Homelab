@@ -41,18 +41,17 @@ services:
       - 49153:49153
       - 49153:49153/udp
     restart: unless-stopped
-  jackett:
-    image: linuxserver/jackett
-    container_name: jackett
+  prowlarr:
+    image: ghcr.io/linuxserver/prowlarr:develop
+    container_name: prowlarr
     environment:
       - PUID=1000
       - PGID=1000
-      - TZ=Europe/London
+      - TZ=PST
     volumes:
-      - ./jackett/config:/config
-      - /mnt/md0/media/torrents/completed:/downloads
+      - ./prowlarr:/config
     ports:
-      - 9117:9117
+      - 9696:9696
     restart: unless-stopped
   sonarr:
     image: linuxserver/sonarr:3.0.9
